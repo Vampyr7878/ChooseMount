@@ -1,0 +1,10 @@
+## Interface: 70100
+## Title: Choose Mount
+## Notes: Randomize mount based on class, race, location and other stuff.
+## Author: Vampyr78
+## Version: 2.0
+## SavedVariablesPerCharacter: chooseMountFrameX, chooseMountFrameY
+## OptionalDeps: Masque LibKeyBound-1.0
+
+embeds.xml
+ChooseMount.lua
