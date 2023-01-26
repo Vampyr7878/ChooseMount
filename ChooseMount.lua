@@ -460,6 +460,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  332464,	--Armored Plaguerot Tauralus
 					  171630,	--Armored Razorback
 					  96491,	--Armored Razzashi Raptor
+					  367875,	--Armored Siege Kodo
 					  332462,	--Armored War-Bred Tauralus
 					  148428,	--Ashhide Mushan Beast
 					  254259,	--Avenging Felcrusher
@@ -500,7 +501,9 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  88748,	--Brown Riding Camel
 					  130086,	--Brown Riding Goat
 					  376875,	--Brown Scouting Ottuk
+					  376910,	--Brown War Ottuk
 					  289639,	--Bruce
+					  369480,	--Cerulean Marsh Hopper
 					  253007,	--Cerulean Ruinstrider
 					  171848,	--Challenger's War Yeti
 					  297560,	--Child of Torcali
@@ -522,6 +525,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  354357,	--Crimson Shardhide
 					  253661,	--Crimson Slavermaw
 					  127271,	--Crimson Water Strider
+					  366789,	--Crusty Crawler
 					  332932,	--Crypt Gargon
 					  359230,	--Curious Crystalsniffer
 					  39316,	--Dark Riding Talbuk
@@ -601,7 +605,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  288505,	--Kaldorei Nightsaber
 					  148417,	--Kor'kron Juggernaut
 					  148396,	--Kor'kron War Wolf
-					  359622,	--Liberated Slyvern
 					  279608,	--Lil' Donkey
 					  171850,	--Llothien Prowler
 					  333027,	--Loyal Gorger
@@ -638,6 +641,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213158,	--Predatory Bloodgazer
 					  186828,	--Primal Gladiator's Felblood Gronnling
 					  363703,	--Prototype Leaper
+					  374275,	--Raging Magmammoth
 					  356501,	--Rampaging Mauler
 					  215558,	--Ratstallion
 					  41252,	--Raven Lord
@@ -658,14 +662,17 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  354351,	--Sanctum Gloomcharger
 					  288506,	--Sandy Nightsaber
 					  171824,	--Sapphire Riverbeast
+					  367826,	--Savage Green Battle Turtle
 					  97581,	--Savage Raptor
 					  359378,	--Scarlet Helicid
+					  374162,	--Scrappy Worldsnail
 					  374138,	--Scorchpath
 					  299159,	--Scrapforged Mechaspider
 					  346719,	--Serenade
 					  332243,	--Shadeleaf Runestag
 					  171624,	--Shadowhide Pearltusk
 					  171829,	--Shadowmane Charger
+					  374155,	--Shellack
 					  259395,	--Shu-Zen, the Divine Sentinel
 					  39317,	--Silver Riding Talbuk
 					  34898,	--Silver War Talbuk
@@ -749,6 +756,8 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  294143,	--X-995 Mechanocat
 					  316723,	--Xinlao
 					  288589,	--Yellow Marsh Hopper
+					  376880,	--Yellow Scouting Ottuk
+					  376913,	--Yellow War Ottuk
 					  385266}	--Zenet Hatchling
 
 ChooseMount.allianceFlying = {302361,	--Alabaster Stormtalon
@@ -804,17 +813,20 @@ ChooseMount.hordeFlying = {302362,	--Alabaster Thunderwing
 ChooseMount.flying = {232519,	--Abyss Worm
 					  290718,	--Aerial Unit R-21/X
 					  60025,	--Albino Drake
+					  369476,	--Amalgam of Rage
 					  96503,	--Amani Dragonhawk
 					  342666,	--Amber Ardenmoth
 					  353856,	--Ardenweald Wilderling
 					  63844,	--Argent Hippogryph
 					  139595,	--Armored Bloodwing
+					  368126,	--Armored Golden Pterrordax
 					  136400,	--Armored Skyscreamer
 					  353880,	--Ascendant's Aquilon
 					  342335,	--Ascended Skymane
 					  132117,	--Ashen Pandaren Phoenix
 					  288495,	--Ashenvale Chimaera
 					  40192,	--Ashes of Al'ar
+					  366962,	--Ash'adar, Harbinger of Dawn
 					  127170,	--Astral Cloud Serpent
 					  353857,	--Autumnal Wilderling
 					  292419,	--Azshari Bloatray
@@ -855,6 +867,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  139448,	--Clutch of Ji-Kun
 					  41515,	--Cobalt Netherwing Drake
 					  327405,	--Colossal Slaughterclaw
+					  367620,	--Coral-Stalker Waveray
 					  183117,	--Corrupted Dreadwing
 					  97560,	--Corrupted Fire Hawk
 					  262027,	--Corrupted Gladiator's Proto-Drake
@@ -942,16 +955,19 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  315014,	--Ivory Cloud Serpent
 					  113199,	--Jade Cloud Serpent
 					  133023,	--Jade Pandaren Kite
+					  369451,	--Jade, Bright Foreseer
 					  267270,	--Kua'fon
 					  253107,	--Lambent Mana Ray
 					  243795,	--Leaping Veinseeker
 					  225765,	--Leyfeather Hippogryph
 					  233364,	--Leywoven Flying Carpet
+					  359622,	--Liberated Slyvern
 					  107845,	--Life-Binder's Handmaiden
 					  239013,	--Lightforged Warframe
 					  215159,	--Long-Forgotten Hippogryph
 					  347250,	--Lord of the Corpseflies
 					  247402,	--Lucid Nightmare
+					  366647,	--Magenta Cloud Serpent
 					  315987,	--Mail Muncher
 					  353883,	--Maldraxxian Corpsefly
 					  316337,	--Malevolent Drone
@@ -992,6 +1008,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  41516,	--Purple Netherwing Drake
 					  39801,	--Purple Riding Nether Ray
 					  279469,	--Qinsho's Eternal Hound
+					  366790,	--Quawks
 					  315427,	--Rajani Warserpent
 					  332903,	--Rampart Screecher
 					  359373,	--Raptora Swooper
@@ -1045,6 +1062,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  359843,	--Tangled Dreamweaver
 					  346554,	--Tazavesh Gearglider
 					  381529,	--Telix the Stormhorn
+					  385738,	--Temperamental Skyclaw
 					  261395,	--The Hivemind
 					  129918,	--Thundering August Cloud Serpent
 					  139442,	--Thundering Cobalt Cloud Serpent
@@ -1517,7 +1535,7 @@ function ChooseMount:SetupButton(button, x, y, icon)
 	button:SetPoint("BOTTOMLEFT", x, y)
 	button:SetFrameStrata("MEDIUM")
 	button:SetAttribute("showgrid", 0)
-	button:SetAttribute("action", 150)
+	button:SetAttribute("action", 200)
 	button:SetScript("OnClick", self.buttonOnClick)
 	button:SetScript("OnEnter", self.buttonOnEnter)
 	button:SetScript("OnUpdate", self.buttonOnUpdate)
