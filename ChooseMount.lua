@@ -449,6 +449,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  123886,	--Amber Scorpion
 					  354356,	--Amber Shardhide
 					  253004,	--Amethyst Ruinstrider
+					  374090,	--Ancient Salamanther
 					  359276,	--Anointed Protostag
 					  339632,	--Arboreal Gulper
 					  227956,	--Arcadian War Turtle
@@ -570,6 +571,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  127176,	--Golden Riding Crane
 					  260175,	--Goldenmane
 					  359413,	--Goldplate Bufonid
+					  374157,	--Gooey Snailemental
 					  332480,	--Gorespine
 					  171436,	--Gorestrider Gronnling
 					  122708,	--Grand Expedition Yak
@@ -623,8 +625,10 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  191314,	--Minion of Grumpus
 					  298367,	--Mollie
 					  171825,	--Mosshide Riverwallow
+					  374194,	--Mossy Mammoth
 					  171622,	--Mottled Meadowstomper
 					  171826,	--Mudback Riverbeast
+					  349935,	--Noble Bruffalon
 					  349935,	--Noble Elderhorn
 					  239049,	--Obsidian Krolusk
 					  376873,	--Otto
@@ -1020,6 +1024,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  67336,	--Relentless Gladiator's Frost Wyrm
 					  368896,	--Renewed Proto-Drake
 					  243025,	--Riddler's Mind-Worm
+					  400733,	--Rocket Shredder 9001
 					  299170,	--Rustbolt Resistor
 					  63963,	--Rusted Proto-Drake
 					  101821,	--Ruthless Gladiator's Twilight Drake
