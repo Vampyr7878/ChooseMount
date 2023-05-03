@@ -1,9 +1,10 @@
-## Interface: 100007
+## Interface: 100100
 ## Title: Choose Mount
 ## Notes: Randomize mount based on class, race, location and other stuff.
 ## Author: Vampyr78
 ## Version: 3.3
 ## SavedVariablesPerCharacter: chooseMountFrameX, chooseMountFrameY
+## IconTexture: Interface\Icons\inv_tailoring_70_saddleblanket.blp
 ## OptionalDeps: Masque LibKeyBound-1.0
 embeds.xml
 ChooseMount.lua
