@@ -519,6 +519,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  138423,	--Cobalt Primordial Direhorn
 					  39315,	--Cobalt Riding Talbuk
 					  34896,	--Cobalt War Talbuk
+					  171840,	--Coldflame Infernal
 					  363136,	--Colossal Ebonclaw Mawrat
 					  368105,	--Colossal Plaguespew Mawrat
 					  363297,	--Colossal Soulshredder Mawrat
@@ -564,6 +565,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213134,	--Felblaze Infernal
 					  36702,	--Fiery Warhorse
 					  101542,	--Flametalon of Alysrazor
+					  213349,	--Flarecore Infernal
 					  84751,	--Fossilized Raptor
 					  280729,	--Frenzied Feltalon
 					  288499,	--Frightened Kodo
@@ -573,6 +575,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171836,	--Garn Steelmaw
 					  359401,	--Genesis Crawler
 					  171635,	--Giant Coldsnout
+					  419567,	--Ginormous Grrloc
 					  289555,	--Glacial Tidestorm
 					  254069,	--Glorious Felcrusher
 					  127176,	--Golden Riding Crane
@@ -665,6 +668,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  129935,	--Red Shado-Pan Riding Tiger
 					  127177,	--Regal Riding Crane
 					  316722,	--Ren's Stalwart Hound
+					  374278,	--Renewed Magmammoth
 					  374263,	--Restless Hornstrider
 					  334482,	--Restoration Deathwalker
 					  288722,	--Risen Mare
@@ -859,6 +863,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  59567,	--Azure Drake
 					  41514,	--Azure Netherwing Drake
 					  374034,	--Azure Skitterfly
+					  420097,	--Azure Worldchiller
 					  343550,	--Battle-Hardened Aquilon
 					  353885,	--Battlefield Swarmer
 					  71342,	--Big Love Rocket
@@ -923,6 +928,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  155741,	--Dread Raven
 					  332256,	--Duskflutter Ardenmoth
 					  354361,	--Dusklight Razorwing
+					  385262,	--Duskwing Ohuna
 					  194464,	--Eclipse Dragonhawk
 					  353875,	--Elysian Aquilon
 					  175700,	--Emerald Drake
@@ -931,6 +937,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  142878,	--Enchanted Fey Dragon
 					  332905,	--Endmire Flyer
 					  370346,	--Eternal Gladiator's Soul Eater
+					  419345,	--Eve's Ghastly Rider
 					  110039,	--Experiment 12-B
 					  227988,	--Fearless Gladiator's Storm Dragon
 					  113120,	--Feldrake
@@ -1055,6 +1062,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  299170,	--Rustbolt Resistor
 					  63963,	--Rusted Proto-Drake
 					  101821,	--Ruthless Gladiator's Twilight Drake
+					  408654,	--Sandy Shalewing
 					  253109,	--Scintillating Mana Ray
 					  414334,	--Scourgebound Vanquisher
 					  316339,	--Shadowbarb Drone
