@@ -356,6 +356,7 @@ ChooseMount.allianceGround = {259213,	--Admiralty Stallion
 							  65642,	--Turbostrider
 							  281887,	--Vicious Black Warsaber
 							  223341,	--Vicious Gilnean Warhorse
+							  424534,	--Vicious Moonbeast
 							  394737,	--Vicious Sabertooth
 							  261433,	--Vicious War Basilisk
 							  229486,	--Vicious War Bear
@@ -420,6 +421,7 @@ ChooseMount.hordeGround = {237287,	--Alabaster Hyena
 						   61424,	--Traveler's Tundra Mammoth
 						   64659,	--Venomhide Ravasaur
 						   281890,	--Vicious Black Bonesteed
+						   424535,	--Vicious Moonbeast
 						   394738,	--Vicious Sabertooth
 						   146622,	--Vicious Skeletal Warhorse
 						   261433,	--Vicious War Basilisk
@@ -493,6 +495,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213115,	--Bloodfang Widow
 					  250735,	--Bloodgorged Crawg
 					  171620,	--Bloodhoof Bull
+					  423871,	--Blossoming Dreamstag
 					  288587,	--Blue Marsh Hopper
 					  25953,	--Blue Qiraji Battle Tank
 					  129934,	--Blue Shado-Pan Riding Tiger
@@ -530,6 +533,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  344578,	--Corridor Creeper
 					  341639,	--Court Sinrunner
 					  279467,	--Craghorn Chasm-Leaper
+					  427435,	--Crimson Glimmerfur
 					  354357,	--Crimson Shardhide
 					  253661,	--Crimson Slavermaw
 					  127271,	--Crimson Water Strider
@@ -542,9 +546,11 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  354358,	--Darkmaul
 					  103081,	--Darkmoon Dancing Bear
 					  312763,	--Darkwarren Hardshell
+					  428013,	--Deathbringer's Shadowcycle
 					  359278,	--Deathrunner
 					  190977,	--Deathtusk Felboar
 					  300147,	--Deepcoral Snapdragon
+					  427222,	--Delugen
 					  332949,	--Desire's Battle Gargon
 					  171634,	--Domesticated Razorback
 					  262022,	--Dread Gladiator's Proto-Drake
@@ -559,6 +565,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  334409,	--Eternal Phalynx of Humility
 					  334408,	--Eternal Phalynx of Loyalty
 					  334403,	--Eternal Phalynx of Purity
+					  424479,	--Evening Sun Dreamsaber
 					  354353,	--Fallen Charger
 					  223018,	--Fathom Dweller
 					  411565,	--Felcrystal Scorpion
@@ -620,13 +627,16 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  148417,	--Kor'kron Juggernaut
 					  148396,	--Kor'kron War Wolf
 					  279608,	--Lil' Donkey
+					  374247,	--Lizi, Thunderspine Tramper
 					  171850,	--Llothien Prowler
 					  333027,	--Loyal Gorger
 					  373859,	--Loyal Magmammoth
+					  423891,	--Lunar Dreamstag
 					  332484,	--Lurid Bloodtusk
 					  253058,	--Maddened Chaosrunner
 					  65917,	--Magic Rooster
 					  350219,	--Magmashell
+					  427546,	--Mammyth
 					  339956,	--Mawsworn Charger
 					  312762,	--Mawsworn Soulhunter
 					  281554,	--Meat Wagon
@@ -636,12 +646,14 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  264058,	--Mighty Caravan Brutosaur
 					  191314,	--Minion of Grumpus
 					  298367,	--Mollie
+					  424482,	--Morning Flourish Dreamsaber
 					  171825,	--Mosshide Riverwallow
 					  374194,	--Mossy Mammoth
 					  171622,	--Mottled Meadowstomper
 					  171826,	--Mudback Riverbeast
 					  349935,	--Noble Bruffalon
 					  349935,	--Noble Elderhorn
+					  427041,	--Ochre Dreamtalon
 					  239049,	--Obsidian Krolusk
 					  376873,	--Otto
 					  334365,	--Pale Acidmaw
@@ -667,6 +679,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  26054,	--Red Qiraji Battle Tank
 					  129935,	--Red Shado-Pan Riding Tiger
 					  127177,	--Regal Riding Crane
+					  423877,	--Rekindled Dreamstag
 					  316722,	--Ren's Stalwart Hound
 					  374278,	--Renewed Magmammoth
 					  374263,	--Restless Hornstrider
@@ -679,6 +692,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  253006,	--Russet Ruinstrider
 					  291492,	--Rusty Mechanocrawler
 					  242305,	--Sable Ruinstrider
+					  427724,	--Salatrancer
 					  354351,	--Sanctum Gloomcharger
 					  288506,	--Sandy Nightsaber
 					  171824,	--Sapphire Riverbeast
@@ -691,6 +705,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  374138,	--Seething Slug
 					  346719,	--Serenade
 					  332243,	--Shadeleaf Runestag
+					  424474,	--Shadow Dusk Dreamsaber
 					  171624,	--Shadowhide Pearltusk
 					  171829,	--Shadowmane Charger
 					  374155,	--Shellack
@@ -707,18 +722,22 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  294039,	--Snapback Scuttler
 					  300146,	--Snapdragon Kelpstalker
 					  213163,	--Snowfeather Hunter
+					  427043,	--Snowfluff Dreamtalon
 					  130965,	--Son of Galleon
 					  354352,	--Soulbound Gloomcharger
 					  136471,	--Spawn of Horridon
 					  42776,	--Spectral Tiger
 					  334364,	--Spinemaw Gladechewer
 					  316802,	--Springfur Alpaca
+					  426955,	--Springtide Dreamtalon
+					  427226,	--Stargrazer
 					  288712,	--Stonehide Elderhorn
 					  374098,	--Stormhide Salamanther
 					  371176,	--Subterranean Magmammoth
 					  414327,	--Sulfur Hound
 					  359277,	--Sundered Zerethsteed
 					  171849,	--Sunhide Gronnling
+					  423873,	--Suntouched Dreamstag
 					  279569,	--Swift Albino Raptor
 					  171830,	--Swift Breezestrider
 					  102346,	--Swift Forest Strider
@@ -731,13 +750,13 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  48954,	--Swift Zhevra
 					  96499,	--Swift Zulian Panther
 					  24252,	--Swift Zulian Tiger
+					  427224,	--Talont
 					  347536,	--Tamed Mauler
 					  88749,	--Tan Riding Camel
 					  39318,	--Tan Riding Talbuk
 					  34899,	--Tan War Talbuk
 					  359402,	--Tarachnid Creeper
 					  260174,	--Terrified Pack Mule
-					  374247,	--Lizi, Thunderspine Tramper
 					  266058,	--Tomb Stalker
 					  171617,	--Trained Icehoof
 					  171623,	--Trained Meadowstomper
@@ -755,6 +774,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  352742,	--Undying Darkhound
 					  359377,	--Unsuccessful Prototype Fleetpod
 					  413922,	--Valiance
+					  422486,	--Verdant Armoredon
 					  243652,	--Vile Fiend
 					  213165,	--Viridian Sharptalon
 					  179478,	--Voidtalon of the Dark Star
@@ -775,6 +795,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  334366,	--Wild Glimmerfur Prowler
 					  171633,	--Wild Goretusk
 					  352441,	--Wild Hunt Legsplitter
+					  424476,	--Winter Night Dreamsaber
 					  332245,	--Winterborn Runestag
 					  171616,	--Witherhide Cliffstomper
 					  74918,	--Wooly White Rhino
@@ -981,6 +1002,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  72807,	--Icebound Frostbrood Vanquisher
 					  408627,	--Igneous Shalewing
 					  62048,	--Illidari Doomhawk
+					  427549,	--Imagiwing
 					  124659,	--Imperial Quilen
 					  344576,	--Infested Necroray
 					  201098,	--Infinite Timereaver
@@ -992,6 +1014,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  113199,	--Jade Cloud Serpent
 					  133023,	--Jade Pandaren Kite
 					  369451,	--Jade, Bright Foreseer
+					  428005,	--Jeweled Copper Scarab
 					  267270,	--Kua'fon
 					  253107,	--Lambent Mana Ray
 					  243795,	--Leaping Veinseeker
@@ -1059,6 +1082,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  243025,	--Riddler's Mind-Worm
 					  400733,	--Rocket Shredder 9001
 					  414986,	--Royal Swarmer
+					  424009,	--Runebound Firelord
 					  299170,	--Rustbolt Resistor
 					  63963,	--Rusted Proto-Drake
 					  101821,	--Ruthless Gladiator's Twilight Drake
@@ -1124,6 +1148,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  242882,	--Valarjar Stormwing
 					  351195,	--Vengeance
 					  49193,	--Vengeful Nether Drake
+					  425416,	--Verdant Gladiator's Slitherdrake
 					  374048,	--Verdant Skitterfly
 					  41517,	--Veridian Netherwing Drake
 					  342678,	--Vespoid Flutterer
@@ -1194,7 +1219,9 @@ ChooseMount.aquatic = {214791,	--Brinedeep Bottom-Feeder
 					   278979,	--Surf Jelly
 					   75207}	--Vashj'ir Seahorse}
 
-ChooseMount.dragonriding = {368901,		--Cliffside Wylderdrake
+ChooseMount.dragonriding = {424484,		--Anu'relos, Flame's Guidance
+							368901,		--Cliffside Wylderdrake
+							425338,		--Flourishing Whimsydrake
 							412088,		--Grotto Netherwing Drake
 							360954,		--Highland Drake
 							368896,		--Renewed Proto-Drake
