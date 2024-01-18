@@ -518,6 +518,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171848,	--Challenger's War Yeti
 					  297560,	--Child of Torcali
 					  332460,	--Chosen Tauralus
+					  432610,	--Clayscale Hornstrider
 					  189364,	--Coalfist Gronnling
 					  138423,	--Cobalt Primordial Direhorn
 					  39315,	--Cobalt Riding Talbuk
@@ -566,6 +567,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  334408,	--Eternal Phalynx of Loyalty
 					  334403,	--Eternal Phalynx of Purity
 					  424479,	--Evening Sun Dreamsaber
+					  374204,	--Explorer's Stonehide Packbeast
 					  354353,	--Fallen Charger
 					  223018,	--Fathom Dweller
 					  411565,	--Felcrystal Scorpion
@@ -582,6 +584,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171836,	--Garn Steelmaw
 					  359401,	--Genesis Crawler
 					  171635,	--Giant Coldsnout
+					  430225,	--Gilnean Prowler
 					  419567,	--Ginormous Grrloc
 					  289555,	--Glacial Tidestorm
 					  254069,	--Glorious Felcrusher
@@ -696,6 +699,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  354351,	--Sanctum Gloomcharger
 					  288506,	--Sandy Nightsaber
 					  171824,	--Sapphire Riverbeast
+					  433281,	--Savage Blue Battle Turtle
 					  367826,	--Savage Green Battle Turtle
 					  97581,	--Savage Raptor
 					  359378,	--Scarlet Helicid
@@ -900,6 +904,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  39803,	--Blue Riding Nether Ray
 					  336041,	--Bonesewn Fleshroc
 					  408653,	--Boulder Hauler
+					  432562,	--Brilliant Sunburst Peafowl
 					  59569,	--Bronze Drake
 					  359364,	--Bronzewing Vespoid
 					  58615,	--Brutal Nether Drake
@@ -920,6 +925,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  41515,	--Cobalt Netherwing Drake
 					  408647,	--Cobalt Shalewing
 					  327405,	--Colossal Slaughterclaw
+					  431992,	--Compass Rose
 					  367620,	--Coral-Stalker Waveray
 					  183117,	--Corrupted Dreadwing
 					  97560,	--Corrupted Fire Hawk
@@ -968,10 +974,12 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  414326,	--Felstorm Dragon
 					  227991,	--Ferocious Gladiator's Storm Dragon
 					  354359,	--Fierce Razorwing
+					  278966,	--Fiery Hearthsteed
 					  97359,	--Flameward Hippogryph
 					  353877,	--Foresworn Aquilon
 					  359367,	--Forged Spiteflyer
 					  386452,	--Frostbrood Proto-Wyrm
+					  431357,	--Fur-endship Fox
 					  65439,	--Furious Gladiator's Frost Wyrm
 					  289083,	--G.M.O.D.
 					  315132,	--Gargantuan Grrloc
@@ -991,6 +999,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  110051,	--Heart of the Aspects
 					  367673,	--Heartbond Lupine
 					  142073,	--Hearthsteed
+					  427777,	--Heartseeker Mana Ray
 					  127169,	--Heavenly Azure Cloud Serpent
 					  127161,	--Heavenly Crimson Cloud Serpent
 					  127164,	--Heavenly Golden Cloud Serpent
@@ -1028,6 +1037,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  247402,	--Lucid Nightmare
 					  366647,	--Magenta Cloud Serpent
 					  315987,	--Mail Muncher
+					  432558,	--Majestic Azure Peafowl
 					  353883,	--Maldraxxian Corpsefly
 					  316337,	--Malevolent Drone
 					  139407,	--Malevolent Gladiator's Cloud Serpent
@@ -1042,6 +1052,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  180545,	--Mystic Runesaber
 					  275623,	--Nazjatar Blood Serpent
 					  367676,	--Nether-Gorged Greatwyrm
+					  432455,	--Noble Flying Carpet
 					  262024,	--Notorious Gladiator's Proto-Drake
 					  308814,	--Ny'alotha Allseer
 					  408977,	--Obsidian Gladiator's Slitherdrake
@@ -1108,6 +1119,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  134359,	--Sky Golem
 					  231428,	--Smoldering Ember Wyrm
 					  347251,	--Soaring Razorwing
+					  431359,	--Soaring Sky Fox
 					  191633,	--Soaring Skyterror
 					  359318,	--Soaring Spelltome
 					  171828,	--Solar Spirehawk
@@ -1116,6 +1128,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  196681,	--Spirit of Eche'ro
 					  254811,	--Squawks
 					  308078,	--Squeakers, the Trickster
+					  432564,	--Starry Twilight Peafowl
 					  326390,	--Steamscale Incinerator
 					  147595,	--Stormcrow
 					  353859,	--Summer Wilderling
@@ -1140,6 +1153,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  370770,	--Tuskarr Shoreglider
 					  59571,	--Twilight Drake
 					  107844,	--Twilight Harbinger
+					  431360,	--Twilight Sky Prowler
 					  107203,	--Tyrael's Charger
 					  148618,	--Tyrannical Gladiator's Cloud Serpent
 					  353036,	--Unchained Gladiator's Soul Eater

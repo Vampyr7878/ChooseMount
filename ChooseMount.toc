@@ -1,8 +1,8 @@
-## Interface: 100200
+## Interface: 100205
 ## Title: Choose Mount
 ## Notes: Randomize mount based on class, race, location and other stuff.
 ## Author: Vampyr78
-## Version: 3.7
+## Version: 3.8
 ## SavedVariablesPerCharacter: chooseMountFrameX, chooseMountFrameY
 ## IconTexture: Interface\Icons\inv_tailoring_70_saddleblanket.blp
 ## OptionalDeps: Masque LibKeyBound-1.0
