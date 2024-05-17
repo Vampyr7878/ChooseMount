@@ -361,7 +361,6 @@ ChooseMount.allianceGround = {259213,	--Admiralty Stallion
 							  261433,	--Vicious War Basilisk
 							  229486,	--Vicious War Bear
 							  347256,	--Vicious War Croaker
-							  434470,	--Vicious Dreamtalon
 							  223578,	--Vicious War Elekk
 							  242896,	--Vicious War Fox
 							  348770,	--Vicious War Gorm
@@ -429,7 +428,6 @@ ChooseMount.hordeGround = {237287,	--Alabaster Hyena
 						   229486,	--Vicious War Bear
 						   270560,	--Vicious War Clefthoof
 						   347255,	--Vicious War Croaker
-						   434477,	--Vicious Dreamtalon
 						   242896,	--Vicious War Fox
 						   185052,	--Vicious War Kodo
 						   348769,	--Vicious War Gorm
@@ -481,9 +479,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  294569,	--Beastlord's Warwolf
 					  253005,	--Beryl Ruinstrider
 					  347810,	--Beryl Shardhide
-					  376898,	--Bestowed Ottuk Vanguard
-					  351408,	--Bestowed Thunderspine Packleader
-					  374172,	--Bestowed Trawling Mammoth
 					  51412,	--Big Battle Bear
 					  58983,	--Big Blizzard Bear
 					  408313,	--Big Slick in the City
@@ -491,7 +486,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  138642,	--Black Primal Raptor
 					  25863,	--Black Qiraji Battle Tank
 					  130138,	--Black Riding Goat
-					  127209,	--Black Riding Yak
 					  288438,	--Blackpaw
 					  171627,	--Blacksteel Battleboar
 					  254260,	--Bleakhoof Ruinstrider
@@ -526,7 +520,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  332460,	--Chosen Tauralus
 					  432610,	--Clayscale Hornstrider
 					  189364,	--Coalfist Gronnling
-					  435149,	--Cobalt Juggernaut
 					  138423,	--Cobalt Primordial Direhorn
 					  39315,	--Cobalt Riding Talbuk
 					  34896,	--Cobalt War Talbuk
@@ -537,7 +530,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  363178,	--Colossal Umbrahide Mawrat
 					  368128,	--Colossal Wraithbound Mawrat
 					  279454,	--Conqueror's Scythemaw
-					  374097,	--Coralscale Salamanther
 					  170347,	--Core Hound
 					  344578,	--Corridor Creeper
 					  341639,	--Court Sinrunner
@@ -578,7 +570,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  374204,	--Explorer's Stonehide Packbeast
 					  354353,	--Fallen Charger
 					  223018,	--Fathom Dweller
-					  435150,	--Fel Iron Juggernaut
 					  411565,	--Felcrystal Scorpion
 					  213134,	--Felblaze Infernal
 					  36702,	--Fiery Warhorse
@@ -593,7 +584,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171836,	--Garn Steelmaw
 					  359401,	--Genesis Crawler
 					  171635,	--Giant Coldsnout
-					  435123,	--Gilded Riding Crane
 					  430225,	--Gilnean Prowler
 					  419567,	--Ginormous Grrloc
 					  289555,	--Glacial Tidestorm
@@ -614,7 +604,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  88750,	--Grey Riding Camel
 					  127216,	--Grey Riding Yak
 					  193007,	--Grove Defiler
-					  435115,	--Guardian Quilen
 					  352309,	--Hand of Bahmethra
 					  339957,	--Hand of Hrestimorak
 					  354354,	--Hand of Nilganihmaht
@@ -628,7 +617,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  359403,	--Ineffable Skitterer
 					  186305,	--Infernal Direwolf
 					  406637,	--Inferno Armoredon
-					  434462,	--Infinite Armoredon
 					  332923,	--Inquisition Gargon
 					  142910,	--Ironbound Wraithcharger
 					  171621,	--Ironhoof Destroyer
@@ -637,26 +625,21 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  376879,	--Ivory Trader's Ottuk
 					  138426,	--Jade Primordial Direhorn
 					  366791,	--Jigglesworth Sr.
-					  127178,	--Jungle Riding Crane
 					  297157,	--Junkheap Drifter
-					  123182,	--Kafa Yak
 					  288505,	--Kaldorei Nightsaber
 					  148417,	--Kor'kron Juggernaut
 					  148396,	--Kor'kron War Wolf
 					  279608,	--Lil' Donkey
-					  435133,	--Little Red Riding Goat
 					  374247,	--Lizi, Thunderspine Tramper
 					  171850,	--Llothien Prowler
 					  333027,	--Loyal Gorger
 					  373859,	--Loyal Magmammoth
 					  423891,	--Lunar Dreamstag
 					  332484,	--Lurid Bloodtusk
-					  435124,	--Luxurious Riding Crane
 					  253058,	--Maddened Chaosrunner
 					  65917,	--Magic Rooster
 					  350219,	--Magmashell
 					  427546,	--Mammyth
-					  435118,	--Marble Quilen
 					  339956,	--Mawsworn Charger
 					  312762,	--Mawsworn Soulhunter
 					  281554,	--Meat Wagon
@@ -665,7 +648,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  229499,	--Midnight
 					  264058,	--Mighty Caravan Brutosaur
 					  191314,	--Minion of Grumpus
-					  127213,	--Modest Expedition Yak
 					  298367,	--Mollie
 					  424482,	--Morning Flourish Dreamsaber
 					  171825,	--Mosshide Riverwallow
@@ -679,9 +661,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  376873,	--Otto
 					  334365,	--Pale Acidmaw
 					  342671,	--Pale Regal Cervid
-					  435128,	--Pale Riding Crane
 					  279474,	--Palehide Direhorn
-					  435161,	--Palehide Mushan Beast
 					  363701,	--Patient Bufonid
 					  418078,	--Pattie
 					  414328,	--Perfected Juggernaut
@@ -694,7 +674,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213158,	--Predatory Bloodgazer
 					  186828,	--Primal Gladiator's Felblood Gronnling
 					  363703,	--Prototype Leaper
-					  435153,	--Purple Shado-Pan Riding Tiger
 					  374275,	--Raging Magmammoth
 					  356501,	--Rampaging Mauler
 					  215558,	--Ratstallion
@@ -710,9 +689,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  334482,	--Restoration Deathwalker
 					  288722,	--Risen Mare
 					  17481,	--Rivendare's Deathcharger
-					  435160,	--Riverwalker Mushan
 					  171628,	--Rocktusk Battleboar
-					  435127,	--Rose Riding Crane
 					  294038,	--Royal Snapdragon
 					  363706,	--Russet Bufonid
 					  253006,	--Russet Ruinstrider
@@ -737,7 +714,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171829,	--Shadowmane Charger
 					  374155,	--Shellack
 					  259395,	--Shu-Zen, the Divine Sentinel
-					  435126,	--Silver Riding Crane
 					  39317,	--Silver Riding Talbuk
 					  34898,	--Silver War Talbuk
 					  332927,	--Sinfall Gargon
@@ -751,7 +727,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  300146,	--Snapdragon Kelpstalker
 					  213163,	--Snowfeather Hunter
 					  427043,	--Snowfluff Dreamtalon
-					  435131,	--Snowy Riding Goat
 					  130965,	--Son of Galleon
 					  354352,	--Soulbound Gloomcharger
 					  136471,	--Spawn of Horridon
@@ -762,7 +737,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  427226,	--Stargrazer
 					  288712,	--Stonehide Elderhorn
 					  374098,	--Stormhide Salamanther
-					  373967,	--Stormtouched Bruffalon
 					  371176,	--Subterranean Magmammoth
 					  414327,	--Sulfur Hound
 					  359277,	--Sundered Zerethsteed
@@ -780,7 +754,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  48954,	--Swift Zhevra
 					  96499,	--Swift Zulian Panther
 					  24252,	--Swift Zulian Tiger
-					  424607,	--Taivan
 					  427224,	--Talont
 					  347536,	--Tamed Mauler
 					  88749,	--Tan Riding Camel
@@ -795,7 +768,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171637,	--Trained Rocktusk
 					  171831,	--Trained Silverpelt
 					  171841,	--Trained Snarler
-					  435125,	--Tropical Riding Crane
 					  171619,	--Tundra Icehoof
 					  279466,	--Twilight Avenger
 					  92155,	--Ultramarine Qiraji Battle Tank
@@ -898,8 +870,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  369476,	--Amalgam of Rage
 					  96503,	--Amani Dragonhawk
 					  342666,	--Amber Ardenmoth
-					  441794,	--Amber Pterrordax
-					  349943,	--Amber Skitterfly
 					  353856,	--Ardenweald Wilderling
 					  63844,	--Argent Hippogryph
 					  139595,	--Armored Bloodwing
@@ -912,8 +882,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  40192,	--Ashes of Al'ar
 					  366962,	--Ash'adar, Harbinger of Dawn
 					  127170,	--Astral Cloud Serpent
-					  446022,	--Astral Emperor's Serpent
-					  446017,	--August Phoenix
 					  353857,	--Autumnal Wilderling
 					  292419,	--Azshari Bloatray
 					  123992,	--Azure Cloud Serpent
@@ -923,8 +891,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  420097,	--Azure Worldchiller
 					  343550,	--Battle-Hardened Aquilon
 					  353885,	--Battlefield Swarmer
-					  385260,	--Bestowed Ohuna Spotter
-					  374071,	--Bestowed Sandskimmer
 					  71342,	--Big Love Rocket
 					  59650,	--Black Drake
 					  59976,	--Black Proto-Drake
@@ -933,7 +899,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  74854,	--Blazing Hippogryph
 					  72808,	--Bloodbathed Frostbrood Vanquisher
 					  288720,	--Bloodgorged Hunter
-					  435145,	--Bloody Skyscreamer
 					  59568,	--Blue Drake
 					  59996,	--Blue Proto-Drake
 					  39803,	--Blue Riding Nether Ray
@@ -945,7 +910,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  58615,	--Brutal Nether Drake
 					  344574,	--Bulbous Necroray
 					  359366,	--Buzz
-					  408648,	--Calescent Shalewing
 					  336038,	--Callow Flayedwing
 					  359545,	--Carcinized Zerethsteed
 					  353263,	--Cartel Master's Gearglider
@@ -976,16 +940,13 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  88990,	--Dark Phoenix
 					  247448,	--Darkmoon Dirigible
 					  235764,	--Darkspore Mana Ray
-					  435103,	--Dashing Windsteed
 					  336064,	--Dauntless Duskrunner
-					  435108,	--Daystorm Windsteed
 					  289101,	--Dazar'alor Windreaver
 					  64927,	--Deadly Gladiator's Frost Wyrm
 					  318052,	--Deathbringer's Flayedwing
 					  342680,	--Deepstar Aurelid
 					  342668,	--Desertwing Hunter
 					  395644,	--Divine Kiss of Ohn'ahra
-					  424539,	--Draconic Gladiator's Drake
 					  88335,	--Drake of the East Wind
 					  315847,	--Drake of the Four Winds
 					  88742,	--Drake of the North Wind
@@ -1006,7 +967,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  419345,	--Eve's Ghastly Rider
 					  110039,	--Experiment 12-B
 					  227988,	--Fearless Gladiator's Storm Dragon
-					  435109,	--Feathered Windsurfer
 					  113120,	--Feldrake
 					  97501,	--Felfire Hawk
 					  253108,	--Felglow Mana Ray
@@ -1016,7 +976,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  354359,	--Fierce Razorwing
 					  278966,	--Fiery Hearthsteed
 					  97359,	--Flameward Hippogryph
-					  435107,	--Forest Windsteed
 					  353877,	--Foresworn Aquilon
 					  359367,	--Forged Spiteflyer
 					  386452,	--Frostbrood Proto-Wyrm
@@ -1029,7 +988,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  312772,	--Gilded Prowler
 					  414324,	--Gold-Toed Albatross
 					  123993,	--Golden Cloud Serpent
-					  435044,	--Golden Discus
 					  61294,	--Green Proto-Drake
 					  39798,	--Green Riding Nether Ray
 					  148619,	--Grievous Gladiator's Cloud Serpent
@@ -1064,7 +1022,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  315014,	--Ivory Cloud Serpent
 					  113199,	--Jade Cloud Serpent
 					  133023,	--Jade Pandaren Kite
-					  435147,	--Jade Pterrordax
 					  369451,	--Jade, Bright Foreseer
 					  428005,	--Jeweled Copper Scarab
 					  267270,	--Kua'fon
@@ -1090,13 +1047,11 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  223814,	--Mechanized Lumber Extractor
 					  44317,	--Merciless Nether Drake
 					  63796,	--Mimiron's Head
-					  435082,	--Mogu Hazeblazer
 					  408655,	--Morsel Sniffer
 					  93623,	--Mottled Drake
 					  180545,	--Mystic Runesaber
 					  275623,	--Nazjatar Blood Serpent
 					  367676,	--Nether-Gorged Greatwyrm
-					  435146,	--Night Pterrorwing
 					  432455,	--Noble Flying Carpet
 					  262024,	--Notorious Gladiator's Proto-Drake
 					  308814,	--Ny'alotha Allseer
@@ -1111,7 +1066,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  344575,	--Pestilent Necroray
 					  88718,	--Phosphorescent Stone Drake
 					  60021,	--Plagued Proto-Drake
-					  437162,	--Polly Roger
 					  336045,	--Predatory Plagueroc
 					  222240,	--Prestigious Azure Courser
 					  281044,	--Prestigious Bloodforged Courser
@@ -1138,7 +1092,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  67336,	--Relentless Gladiator's Frost Wyrm
 					  243025,	--Riddler's Mind-Worm
 					  400733,	--Rocket Shredder 9001
-					  254812,	--Royal Seafeather
 					  414986,	--Royal Swarmer
 					  424009,	--Runebound Firelord
 					  299170,	--Rustbolt Resistor
@@ -1164,7 +1117,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  262023,	--Sinister Gladiator's Proto-Drake
 					  340068,	--Sintouched Deathwalker
 					  134359,	--Sky Golem
-					  435084,	--Sky Surfer
 					  231428,	--Smoldering Ember Wyrm
 					  347251,	--Soaring Razorwing
 					  431359,	--Soaring Sky Fox
@@ -1191,7 +1143,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  346554,	--Tazavesh Gearglider
 					  381529,	--Telix the Stormhorn
 					  385738,	--Temperamental Skyclaw
-					  272770,	--The Dreadwake
 					  261395,	--The Hivemind
 					  129918,	--Thundering August Cloud Serpent
 					  139442,	--Thundering Cobalt Cloud Serpent
@@ -1224,7 +1175,6 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  60024,	--Violet Proto-Drake
 					  88746,	--Vitreous Stone Drake
 					  88331,	--Volcanic Stone Drake
-					  439138,	--Voyaging Wilderling
 					  354362,	--Wandering Arden Doe
 					  163016,	--Warforged Nightmare
 					  316275,	--Waste Marauder
@@ -1244,8 +1194,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  46199,	--X-51 Nether-Rocket X-TREME
 					  75953,	--X-53 Touring Rocket
 					  256123,	--Xiwyllag AT
-					  368158,	--Zereth Overseer
-					  440444}	--Zovaal's Soul Eater
+					  368158}	--Zereth Overseer
 
 ChooseMount.alchemy = {93326}	--Sandstone Drake
 
@@ -1279,7 +1228,6 @@ ChooseMount.aquatic = {214791,	--Brinedeep Bottom-Feeder
 					   253711,	--Pond Nettle
 					   30174,	--Riding Turtle
 					   288711,	--Saltwater Seahorse
-					   300154,	--Silver Tidestallion
 					   64731,	--Sea Turtle
 					   98718,	--Subdued Seahorse
 					   278979,	--Surf Jelly
@@ -1321,6 +1269,13 @@ ChooseMount.raceIcons = {["Human"] = "Interface/ICONS/Ability_Mount_AlliancePVPM
 
 ChooseMount.classIcons = {["WARRIOR"] = "Interface/ICONS/INV_WarriorMount",
 						  ["PALADIN"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["DAWNFORGE"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["THALASSIAN"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["EXARCH"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["SUNWALKER"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["LIGHTSWORN"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["DARKFORGE"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["PRELATE"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["THALASSIAN"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["EXARCH"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["SUNWALKER"] = "Interface/ICONS/INV_PaladinMount_Blue",
@@ -1358,6 +1313,7 @@ ChooseMount.dragonridingIcon = "5161800"
 
 function ChooseMount:OnInitialize()
 	self.frame = CreateFrame("FRAME", nil, UIParent)
+	self.move = CreateFrame("FRAME", nil, self.frame, BackdropTemplateMixin and "BackdropTemplate")
 	LibKeyBound = LibStub("LibKeyBound-1.0")
 	Masque = LibStub("Masque", true)
 	if Masque ~= nil then
@@ -1370,8 +1326,37 @@ function ChooseMount:OnInitialize()
 		chooseMountFrameY = 300
 	end
 	self:SetupFrame(self.frame)
+	self:SetupMoveFrame(self.move)
+	local options = {
+		name = "Choose Mount",
+		handler = ChooseMount,
+		type = "group",
+		args = {
+			movable = {
+				name = "Set Movable",
+				type = "toggle",
+				desc = "makes bar movable",
+				set = "SetMove",
+				get = "GetMove"
+			}
+		}
+	}
+	LibStub("AceConfig-3.0"):RegisterOptionsTable("ChooseMount", options, nil)
+	LibStub("AceConfigDialog-3.0"):AddToBlizOptions("ChooseMount", "Choose Mount")
 	LibKeyBound.RegisterCallback(self, "LIBKEYBOUND_ENABLED")
 	LibKeyBound.RegisterCallback(self, "LIBKEYBOUND_DISABLED")
+end
+
+function ChooseMount:SetMove(info, val)
+	if val then
+		self.move:Show()
+	else
+		self.move:Hide()
+	end
+end
+
+function ChooseMount:GetMove(info)
+	return self.move:IsShown()
 end
 
 function ChooseMount:LIBKEYBOUND_ENABLED()
@@ -1444,13 +1429,11 @@ function ChooseMount.frameOnEvent(self, event)
 end
 
 function ChooseMount.frameOnDragStart(self)
-	if IsShiftKeyDown() then
-		self:StartMoving()
-	end
+	ChooseMount.frame:StartMoving()
 end
 
 function ChooseMount.frameOnDragStop(self)
-	self:StopMovingOrSizing()
+	ChooseMount.frame:StopMovingOrSizing()
 	chooseMountFrameX = self:GetLeft()
 	chooseMountFrameY = self:GetBottom()
 end
@@ -1463,11 +1446,29 @@ function ChooseMount:SetupFrame(frame)
 	frame:SetWidth(220)
 	frame:SetHeight(88)
 	frame:SetFrameStrata("LOW")
-	frame:RegisterForDrag("LeftButton")
 	frame:RegisterEvent("PLAYER_LOGIN")
 	frame:SetScript("OnEvent", ChooseMount.frameOnEvent)
+end
+
+function ChooseMount:SetupMoveFrame(frame)
+	frame:SetMovable(true)
+	frame:EnableMouse(true)
+	frame:SetClampedToScreen(true)
+	frame:SetPoint("BOTTOMLEFT", 0, 0)
+	frame:SetWidth(220)
+	frame:SetHeight(88)
+	frame:SetFrameStrata("HIGH")
+	local backdrop = {
+		bgFile = "Interface\\Tooltips\\UI-Tooltip-Background",
+		tile = false,
+		tileSize = 0,
+	}
+	frame:SetBackdrop(backdrop)
+	frame:SetBackdropColor(0, 0.75, 0.25, 0.75)
+	frame:RegisterForDrag("LeftButton")
 	frame:SetScript("OnDragStart", ChooseMount.frameOnDragStart)
 	frame:SetScript("OnDragStop", ChooseMount.frameOnDragStop)
+	frame:Hide()
 end
 
 function ChooseMount.buttonOnClick(self)
