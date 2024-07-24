@@ -1647,8 +1647,8 @@ function ChooseMount:Mount(mounts, number)
 	local rand, spell
 	local usable = false
 	for i = 1, number do
-			spell = GetSpellInfo(mounts[i])
-		if IsUsableSpell(spell) then
+			spell = C_Spell.GetSpellInfo(mounts[i])
+		if C_Spell.IsSpellUsable(spell.name) then
 			usable = true
 			break
 		end
@@ -1656,9 +1656,9 @@ function ChooseMount:Mount(mounts, number)
 	if usable then
 		repeat
 			rand = math.random(1, number)
-			spell = GetSpellInfo(mounts[rand])
-		until IsUsableSpell(spell)
-		CastSpellByName(spell)
+			spell = C_Spell.GetSpellInfo(mounts[rand])
+		until C_Spell.IsSpellUsable(spell.name)
+		CastSpellByName(spell.name)
 	end
 end
 
