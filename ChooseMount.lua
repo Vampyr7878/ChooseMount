@@ -1308,7 +1308,8 @@ ChooseMount.aquatic = {214791,	--Brinedeep Bottom-Feeder
 					   278979,	--Surf Jelly
 					   75207}	--Vashj'ir Seahorse}
 
-ChooseMount.dragonriding = {368901,		--Cliffside Wylderdrake
+ChooseMount.dragonriding = {417888,		--Algarian Stormrider
+							368901,		--Cliffside Wylderdrake
 							446052,		--Delver's Dirigible
 							425338,		--Flourishing Whimsydrake
 							412088,		--Grotto Netherwing Drake
