@@ -449,6 +449,7 @@ ChooseMount.hordeGround = {237287,	--Alabaster Hyena
 ChooseMount.ground = {253662,	--Acid Belcher
 					  359232,	--Adorned Vombata
 					  98204,	--Amani Battle Bear
+					  452645,	--Amani Hunting Bear
 					  43688,	--Amani War Bear
 					  138424,	--Amber Primordial Direhorn
 					  123886,	--Amber Scorpion
@@ -612,6 +613,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  129932,	--Green Shado-Pan Riding Tiger
 					  88750,	--Grey Riding Camel
 					  127216,	--Grey Riding Yak
+					  457485,	--Grizzly Hills Packmaster
 					  193007,	--Grove Defiler
 					  435115,	--Guardian Quilen
 					  352309,	--Hand of Bahmethra
@@ -971,6 +973,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  139448,	--Clutch of Ji-Kun
 					  41515,	--Cobalt Netherwing Drake
 					  408647,	--Cobalt Shalewing
+					  463133,	--Coldflame Tempest
 					  327405,	--Colossal Slaughterclaw
 					  431992,	--Compass Rose
 					  367620,	--Coral-Stalker Waveray
@@ -1015,6 +1018,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  149801,	--Emerald Hippogryph
 					  132118,	--Emerald Pandaren Phoenix
 					  142878,	--Enchanted Fey Dragon
+					  468353,	--Enchanted Spellweave Carpet
 					  332905,	--Endmire Flyer
 					  370346,	--Eternal Gladiator's Soul Eater
 					  419345,	--Eve's Ghastly Rider
@@ -1034,6 +1038,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  353877,	--Foresworn Aquilon
 					  449466,	--Forged Gladiator's Fel Bat
 					  359367,	--Forged Spiteflyer
+					  452643,	--Frayfeather Hippogryph
 					  386452,	--Frostbrood Proto-Wyrm
 					  431357,	--Fur-endship Fox
 					  65439,	--Furious Gladiator's Frost Wyrm
@@ -1200,6 +1205,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  254811,	--Squawks
 					  308078,	--Squeakers, the Trickster
 					  432564,	--Starry Twilight Peafowl
+					  454682,	--Startouched Furline
 					  326390,	--Steamscale Incinerator
 					  442358,	--Stonevault Mechsuit
 					  147595,	--Stormcrow
@@ -1573,12 +1579,6 @@ function ChooseMount.buttonOnClick(self)
 	ChooseMount:Mount(mounts, table.getn(mounts))
 end
 
-function ChooseMount.buttonOnUpdate(self)
-	if Masque ~= nil then
-		group:ReSkin()
-	end
-end
-
 function ChooseMount.buttonOnEnter(self)
 	LibKeyBound:Set(self)
 end
@@ -1751,7 +1751,6 @@ function ChooseMount:SetupButton(button, x, y, icon)
 	button:SetAttribute("action", 200)
 	button:SetScript("OnClick", self.buttonOnClick)
 	button:SetScript("OnEnter", self.buttonOnEnter)
-	button:SetScript("OnUpdate", self.buttonOnUpdate)
 	button:SetBackdrop({bgFile = icon,
 					   tile = false,
 					   insets = {left = 2,
