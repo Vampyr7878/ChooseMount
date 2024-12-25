@@ -637,6 +637,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  230401,	--Ivory Hawkstrider
 					  376879,	--Ivory Trader's Ottuk
 					  138426,	--Jade Primordial Direhorn
+					  473472,	--Jani's Trashpile
 					  366791,	--Jigglesworth Sr.
 					  127178,	--Jungle Riding Crane
 					  297157,	--Junkheap Drifter
@@ -699,6 +700,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  457659,	--Plunderlord's Weathered Crocolisk
 					  213158,	--Predatory Bloodgazer
 					  186828,	--Primal Gladiator's Felblood Gronnling
+					  474086,	--Prismatic Snapdragon
 					  363703,	--Prototype Leaper
 					  435153,	--Purple Shado-Pan Riding Tiger
 					  374275,	--Raging Magmammoth
@@ -728,6 +730,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  354351,	--Sanctum Gloomcharger
 					  288506,	--Sandy Nightsaber
 					  171824,	--Sapphire Riverbeast
+					  473861,	--Savage Alabaster Battle Turtle
 					  433281,	--Savage Blue Battle Turtle
 					  367826,	--Savage Green Battle Turtle
 					  97581,	--Savage Raptor
@@ -955,6 +958,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  432562,	--Brilliant Sunburst Peafowl
 					  59569,	--Bronze Drake
 					  359364,	--Bronzewing Vespoid
+					  1214946,	--Broodling of Sinestra
 					  58615,	--Brutal Nether Drake
 					  344574,	--Bulbous Necroray
 					  359366,	--Buzz
@@ -975,6 +979,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408647,	--Cobalt Shalewing
 					  463133,	--Coldflame Tempest
 					  327405,	--Colossal Slaughterclaw
+					  1214974.	--Copper-Maned Quilen
 					  431992,	--Compass Rose
 					  367620,	--Coral-Stalker Waveray
 					  183117,	--Corrupted Dreadwing
@@ -1069,6 +1074,8 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  127158,	--Heavenly Onyx Cloud Serpent
 					  341776,	--Highwind Darkmane
 					  290134,	--Hogrus, Swine of Good Fortune
+					  303767,	--Honeyback Hivemother
+					  471696,	--Hooktalon
 					  332882,	--Horrid Dredwing
 					  336042,	--Hulking Deathroc
 					  72807,	--Icebound Frostbrood Vanquisher
@@ -1100,7 +1107,9 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  239013,	--Lightforged Warframe
 					  215159,	--Long-Forgotten Hippogryph
 					  347250,	--Lord of the Corpseflies
+					  472479,	--Love Witch's Sweeper
 					  247402,	--Lucid Nightmare
+					  472253,	--Lunar Launcher
 					  448188,	--Machine Defense Unit 1-11
 					  366647,	--Magenta Cloud Serpent
 					  315987,	--Mail Muncher
@@ -1121,6 +1130,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  275623,	--Nazjatar Blood Serpent
 					  367676,	--Nether-Gorged Greatwyrm
 					  435146,	--Night Pterrorwing
+					  1214920,	--Nightfall Skyreaver
 					  432455,	--Noble Flying Carpet
 					  262024,	--Notorious Gladiator's Proto-Drake
 					  308814,	--Ny'alotha Allseer
@@ -1174,6 +1184,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  316339,	--Shadowbarb Drone
 					  347812,	--Sapphire Skyblazer
 					  448939,	--Shackled Shadow
+					  448934,	--Shadow of Doubt
 					  447190,	--Shadowed Swarmite
 					  408649,	--Shadowflame Shalewing
 					  254813,	--Sharkbait
@@ -1184,6 +1195,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  318051,	--Silky Shimmermoth
 					  266925,	--Siltwing Albatross
 					  39802,	--Silver Riding Nether Ray
+					  472487,	--Silvermoon Sweeper
 					  312777,	--Silvertip Dredwing
 					  334433,	--Silverwind Larion
 					  353872,	--Sinfall Gravewing
@@ -1200,6 +1212,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  359318,	--Soaring Spelltome
 					  171828,	--Solar Spirehawk
 					  358319,	--Soultwisted Deathwalker
+					  473137,	--Soweezi's Vintage Waveshredder
 					  148392,	--Spawn of Galakras
 					  196681,	--Spirit of Eche'ro
 					  254811,	--Squawks
@@ -1222,13 +1235,16 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  346554,	--Tazavesh Gearglider
 					  381529,	--Telix the Stormhorn
 					  385738,	--Temperamental Skyclaw
+					  472752,	--The Breaker's Song
 					  261395,	--The Hivemind
+					  471562,	--Thrayir, Eyes of the Siren
 					  129918,	--Thundering August Cloud Serpent
 					  139442,	--Thundering Cobalt Cloud Serpent
 					  124408,	--Thundering Jade Cloud Serpent
 					  148476,	--Thundering Onyx Cloud Serpent
 					  132036,	--Thundering Ruby Cloud Serpent
 					  60002,	--Time-Lost Proto-Drake
+					  471538,	--Timely Buzzbee
 					  370770,	--Tuskarr Shoreglider
 					  59571,	--Twilight Drake
 					  107844,	--Twilight Harbinger
@@ -1239,6 +1255,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  302143,	--Uncorrupted Voidwing
 					  448851,	--Underlight Corrupted Behemoth
 					  448849,	--Underlight Shorestalker
+					  1214940,	--Ur'zul Fleshripper
 					  359013,	--Val'sharah Hippogryph
 					  242882,	--Valarjar Stormwing
 					  351195,	--Vengeance
