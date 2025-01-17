@@ -217,8 +217,7 @@ ChooseMount.dawnforge = {66906,		--Argent Charger
 						231589,		--Highlord's Valorous Charger
 						231587,		--Highlord's Vengeful Charger
 						231588,		--Highlord's Vigilant Charger
-						270564,		--Summon Dawnforge Ram
-						13819}		--Summon Warhorse
+						270564}		--Summon Dawnforge Ram
 
 ChooseMount.thalassian = {66906,	--Argent Charger
 						  66907,	--Argent Warhorse
@@ -253,9 +252,7 @@ ChooseMount.lightsworn = {66906,	--Argent Charger
 						  231589,	--Highlord's Valorous Charger
 						  231587,	--Highlord's Vengeful Charger
 						  231588,	--Highlord's Vigilant Charger
-						  363613,	--Lightforged Ruinstrider
-						  73629,	--Summon Exarch's Elekk
-						  73630}	--Summon Great Exarch's Elekk
+						  363613}	--Lightforged Ruinstrider
 
 ChooseMount.darkforge = {66906,		--Argent Charger
 						 66907,		--Argent Warhorse
@@ -263,8 +260,7 @@ ChooseMount.darkforge = {66906,		--Argent Charger
 						 231589,	--Highlord's Valorous Charger
 						 231587,	--Highlord's Vengeful Charger
 						 231588,	--Highlord's Vigilant Charger
-						 270562,	--Summon Darkforge Ram
-						 13819}		--Summon Warhorse
+						 270562}	--Summon Darkforge Ram
 
 ChooseMount.prelate = {66906,	--Argent Charger
 					   66907,	--Argent Warhorse
@@ -272,8 +268,15 @@ ChooseMount.prelate = {66906,	--Argent Charger
 					   231435,	--Highlord's Golden Charger
 					   231589,	--Highlord's Valorous Charger
 					   231587,	--Highlord's Vengeful Charger
-					   231588,	--Highlord's Vigilant Charger
-					   34769}	--Summon Thalassian Warhorse
+					   231588}	--Highlord's Vigilant Charger
+
+ChooseMount.ordinant = {66906,	--Argent Charger
+					   66907,	--Argent Warhorse
+					   453785,	--Earthen Ordinant's Ramolith
+					   231435,	--Highlord's Golden Charger
+					   231589,	--Highlord's Valorous Charger
+					   231587,	--Highlord's Vengeful Charger
+					   231588}	--Highlord's Vigilant Charger
 
 ChooseMount.hunter = {229439,	--Huntmaster's Dire Wolfhawk
 					  229438,	--Huntmaster's Fierce Wolfhawk
@@ -979,7 +982,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408647,	--Cobalt Shalewing
 					  463133,	--Coldflame Tempest
 					  327405,	--Colossal Slaughterclaw
-					  1214974.	--Copper-Maned Quilen
+					  1214974,	--Copper-Maned Quilen
 					  431992,	--Compass Rose
 					  367620,	--Coral-Stalker Waveray
 					  183117,	--Corrupted Dreadwing
@@ -1369,15 +1372,13 @@ ChooseMount.raceIcons = {["Human"] = "Interface/ICONS/Ability_Mount_AlliancePVPM
 ChooseMount.classIcons = {["WARRIOR"] = "Interface/ICONS/INV_WarriorMount",
 						  ["PALADIN"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["DAWNFORGE"] = "Interface/ICONS/INV_PaladinMount_Blue",
-						  ["THALASSIAN"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["EXARCH"] = "Interface/ICONS/INV_PaladinMount_Blue",
-						  ["SUNWALKER"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["LIGHTSWORN"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["DARKFORGE"] = "Interface/ICONS/INV_PaladinMount_Blue",
-						  ["PRELATE"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["THALASSIAN"] = "Interface/ICONS/INV_PaladinMount_Blue",
-						  ["EXARCH"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["SUNWALKER"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["PRELATE"] = "Interface/ICONS/INV_PaladinMount_Blue",
+						  ["ORDINANT"] = "Interface/ICONS/INV_PaladinMount_Blue",
 						  ["HUNTER"] = "Interface/ICONS/INV_HunterMount",
 						  ["ROGUE"] = "Interface/ICONS/INV_RogueMount_Blue",
 						  ["PRIEST"] = "Interface/ICONS/INV_PriestMount",
@@ -1493,6 +1494,8 @@ function ChooseMount.frameOnEvent(self, event)
 				ChooseMount.class = "DARKFORGE"
 			elseif ChooseMount.race == "ZandalariTroll" then
 				ChooseMount.class = "PRELATE"
+			elseif ChooseMount.race == "EarthenDwarf" then
+				ChooseMount.class = "ORDINANT"
 			end
 		end
 		ChooseMount.faction = UnitFactionGroup("player")
@@ -1662,18 +1665,20 @@ function ChooseMount:SelectClass(class)
 		mounts = self.paladin
 	elseif class == "DAWNFORGE" then
 		mounts = self.dawnforge
-	elseif class == "THALASSIAN" then
-		mounts = self.thalassian
 	elseif class == "EXARCH" then
 		mounts = self.exarch
-	elseif class == "SUNWALKER" then
-		mounts = self.sunwalker
 	elseif class == "LIGHTSWORN" then
 		mounts = self.lightsworn
 	elseif class == "DARKFORGE" then
 		mounts = self.darkforge
+	elseif class == "THALASSIAN" then
+		mounts = self.thalassian
+	elseif class == "SUNWALKER" then
+		mounts = self.sunwalker
 	elseif class == "PRELATE" then
 		mounts = self.prelate
+	elseif class == "ORDINANT" then
+		mounts = self.ordinant
 	elseif class == "HUNTER" then
 		mounts = self.hunter
 	elseif class == "ROGUE" then
