@@ -1,10 +1,21 @@
-## Interface: 110007
+## Interface: 110100
 ## Title: Choose Mount
 ## Notes: Randomize mount based on class, race and other stuff.
 ## Author: Vampyr78
-## Version: 4.2.2
+## Version: 4.3.0
 ## SavedVariablesPerCharacter: chooseMountFrameX, chooseMountFrameY
 ## IconTexture: Interface\Icons\inv_tailoring_70_saddleblanket.blp
+## Category-enUS: Collections
+## Category-deDE: Kriegsmeutesammlungen
+## Category-esES: Colecciones de banda guerrera
+## Category-esMX: Colecciones de tropa
+## Category-frFR: Collections du bataillon
+## Category-itIT: Collezioni della Brigata
+## Category-koKR: 전투부대 수집품
+## Category-ptBR: Coleções do Bando de Guerra
+## Category-ruRU: Коллекции отряда
+## Category-zhCN: 战团藏品
+## Category-zhTW: 戰隊收藏
 ## OptionalDeps: Masque LibKeyBound-1.0
 embeds.xml
 ChooseMount.lua

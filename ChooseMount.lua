@@ -200,6 +200,8 @@ ChooseMount.dracthyr = {385131,		--Armored Vorquin Leystrider
 						394218,		--Sapphire Vorquin
 						385134}		--Swift Armored Vorquin
 
+ChooseMount.earthen = {449415}	--Slatestone Ramolith
+
 ChooseMount.warrior = {229388}	--Battlelord's Bloodthirsty War Wyrm
 
 ChooseMount.paladin = {66906,	--Argent Charger
@@ -462,7 +464,6 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  359276,	--Anointed Protostag
 					  339632,	--Arboreal Gulper
 					  227956,	--Arcadian War Turtle
-					  230987,	--Arcanist's Manasaber
 					  405623,	--Armadillo Roller
 					  332466,	--Armored Bonehoof Tauralus
 					  332467,	--Armored Chosen Tauralus
@@ -493,6 +494,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  130138,	--Black Riding Goat
 					  127209,	--Black Riding Yak
 					  288438,	--Blackpaw
+					  466001,	--Blackwater Bonecrusher
 					  171627,	--Blacksteel Battleboar
 					  254260,	--Bleakhoof Ruinstrider
 					  254258,	--Blessed Felcrusher
@@ -541,6 +543,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  344578,	--Corridor Creeper
 					  341639,	--Court Sinrunner
 					  279467,	--Craghorn Chasm-Leaper
+					  465999,	--Crimson Armored Growler
 					  427435,	--Crimson Glimmerfur
 					  449269,	--Crimson Mudnose
 					  354357,	--Crimson Shardhide
@@ -552,6 +555,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  39316,	--Dark Riding Talbuk
 					  34790,	--Dark War Talbuk
 					  359231,	--Darkened Vombata
+					  466000,	--Darkfuse Chompactor
 					  354358,	--Darkmaul
 					  103081,	--Darkmoon Dancing Bear
 					  312763,	--Darkwarren Hardshell
@@ -567,6 +571,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  237286,	--Dune Scavenger
 					  449416,	--Ebonhide Ramolith
 					  316493,	--Elusive Quickhoof
+					  1218069,	--Emerald Snail
 					  312761,	--Enchanted Dreamlight Runestag
 					  332246,	--Enchanted Shadeleaf Runestag
 					  332247,	--Enchanted Wakener's Runestag
@@ -586,6 +591,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  36702,	--Fiery Warhorse
 					  101542,	--Flametalon of Alysrazor
 					  213349,	--Flarecore Infernal
+					  466011,	--Flarendo the Furious
 					  84751,	--Fossilized Raptor
 					  280729,	--Frenzied Feltalon
 					  288499,	--Frightened Kodo
@@ -651,6 +657,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  148396,	--Kor'kron War Wolf
 					  279608,	--Lil' Donkey
 					  435133,	--Little Red Riding Goat
+					  1217341,	--Lively Darkmoon Charger
 					  374247,	--Lizi, Thunderspine Tramper
 					  171850,	--Llothien Prowler
 					  333027,	--Loyal Gorger
@@ -669,6 +676,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  296788,	--Mechacycle Model W
 					  299158,	--Mechagon Peacekeeper
 					  229499,	--Midnight
+					  1217340,	--Midnight Darkmoon Charger
 					  264058,	--Mighty Caravan Brutosaur
 					  191314,	--Minion of Grumpus
 					  127213,	--Modest Expedition Yak
@@ -765,6 +773,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  300146,	--Snapdragon Kelpstalker
 					  213163,	--Snowfeather Hunter
 					  427043,	--Snowfluff Dreamtalon
+					  1217343,	--Snowy Darkmoon Charger
 					  435131,	--Snowy Riding Goat
 					  130965,	--Son of Galleon
 					  354352,	--Soulbound Gloomcharger
@@ -821,6 +830,8 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  422486,	--Verdant Armoredon
 					  448978,	--Vermillion Imperial Lynx
 					  243652,	--Vile Fiend
+					  466002,	--Violet Armored Growler
+					  1217342,	--Violet Darkmoon Charger
 					  213165,	--Viridian Sharptalon
 					  179478,	--Voidtalon of the Dark Star
 					  344659,	--Voracious Gorger
@@ -879,6 +890,7 @@ ChooseMount.allianceFlying = {302361,	--Alabaster Stormtalon
 							  32292,	--Swift Purple Gryphon
 							  32289,	--Swift Red Gryphon
 							  274610,	--Teldrassil Hippogryph
+							  466146,	--Vicious Electro Eel
 							  449325}	--Vicious Skyflayer
 
 ChooseMount.hordeFlying = {302362,	--Alabaster Thunderwing
@@ -907,6 +919,7 @@ ChooseMount.hordeFlying = {302362,	--Alabaster Thunderwing
 						   32243,	--Tawny Wind Rider
 						   272472,	--Undercity Plaguebat
 						   291538,	--Unshackled Waveray
+						   466145,	--Vicious Electro Eel
 						   447405,	--Vicious Skyflayer
 						   275840}	--Voldunai Dunescraper
 
@@ -920,6 +933,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  441794,	--Amber Pterrordax
 					  424484,	--Anu'relos, Flame's Guidance
 					  447185,	--Aquamarine Swarmite
+					  230987,	--Arcanist's Manasaber
 					  353856,	--Ardenweald Wilderling
 					  63844,	--Argent Hippogryph
 					  139595,	--Armored Bloodwing
@@ -932,6 +946,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  288495,	--Ashenvale Chimaera
 					  40192,	--Ashes of Al'ar
 					  366962,	--Ash'adar, Harbinger of Dawn
+					  466023,	--Asset Advocator
 					  127170,	--Astral Cloud Serpent
 					  446022,	--Astral Emperor's Serpent
 					  446017,	--August Phoenix
@@ -945,9 +960,11 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  343550,	--Battle-Hardened Aquilon
 					  353885,	--Battlefield Swarmer
 					  71342,	--Big Love Rocket
+					  466024,	--Bilgewater Bombardier
 					  59650,	--Black Drake
 					  59976,	--Black Proto-Drake
 					  305182,	--Black Serpent of N'Zoth
+					  466019,	--Blackwater Shredder Deluxe Mk 2
 					  107842,	--Blazing Drake
 					  74854,	--Blazing Hippogryph
 					  72808,	--Bloodbathed Frostbrood Vanquisher
@@ -960,6 +977,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408653,	--Boulder Hauler
 					  432562,	--Brilliant Sunburst Peafowl
 					  59569,	--Bronze Drake
+					  473188,	--Bronze Goblin Waveshredder
 					  359364,	--Bronzewing Vespoid
 					  1214946,	--Broodling of Sinestra
 					  58615,	--Brutal Nether Drake
@@ -993,11 +1011,14 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  127156,	--Crimson Cloud Serpent
 					  377071,	--Crimson Gladiator's Drake
 					  129552,	--Crimson Pandaren Phoenix
+					  1217235,	--Crimson Shreddertank
 					  448186,	--Crowd Pummeler 2-30
 					  227989,	--Cruel Gladiator's Storm Dragon
 					  359381,	--Cryptic Aurelid
 					  447176,	--Cyan Glowmite
 					  88990,	--Dark Phoenix
+					  466018,	--Darkfuse Demolisher
+					  466027,	--Darkfuse Spy-Eye
 					  247448,	--Darkmoon Dirigible
 					  235764,	--Darkspore Mana Ray
 					  435103,	--Dashing Windsteed
@@ -1028,6 +1049,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  142878,	--Enchanted Fey Dragon
 					  468353,	--Enchanted Spellweave Carpet
 					  332905,	--Endmire Flyer
+					  1221694,	--Enterprising Shreddertank
 					  370346,	--Eternal Gladiator's Soul Eater
 					  419345,	--Eve's Ghastly Rider
 					  110039,	--Experiment 12-B
@@ -1089,6 +1111,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  448845,	--Indigo Underlight Fish
 					  344576,	--Infested Necroray
 					  201098,	--Infinite Timereaver
+					  466017,	--Innovation Investigator
 					  72286,	--Invincible
 					  153489,	--Iron Skyreaver
 					  63956,	--Ironbound Proto-Drake
@@ -1100,6 +1123,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  435147,	--Jade Pterrordax
 					  369451,	--Jade, Bright Foreseer
 					  428005,	--Jeweled Copper Scarab
+					  468068,	--Junkmaestro's Magnetomech
 					  267270,	--Kua'fon
 					  253107,	--Lambent Mana Ray
 					  243795,	--Leaping Veinseeker
@@ -1120,11 +1144,14 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  353883,	--Maldraxxian Corpsefly
 					  316337,	--Malevolent Drone
 					  139407,	--Malevolent Gladiator's Cloud Serpent
-					  359372,	--Mawdapted Raptora
+					  466025,	--Margin Manipulator
 					  336036,	--Marrowfang
+					  359372,	--Mawdapted Raptora
+					  466028,	--Mean Green Flying Machine
 					  261437,	--Mecha-Mogul Mk2
 					  223814,	--Mechanized Lumber Extractor
 					  44317,	--Merciless Nether Drake
+					  1218014,	--Midnight Butterfly
 					  63796,	--Mimiron's Head
 					  435082,	--Mogu Hazeblazer
 					  408655,	--Morsel Sniffer
@@ -1140,12 +1167,15 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408977,	--Obsidian Gladiator's Slitherdrake
 					  353866,	--Obsidian Gravewing
 					  121820,	--Obsidian Nightwing
+					  466013,	--Ocher Delivery Rocket
 					  127154,	--Onyx Cloud Serpent
 					  41513,	--Onyx Netherwing Drake
 					  69395,	--Onyxian Drake
 					  376912,	--Otterworldly Ottuk Carrier
 					  353873,	--Pale Gravewing
+					  1217994,	--Pearlescent Butterfly
 					  447413,	--Pearlescent Goblin Wave Shredder
+					  466020,	--Personalized Goblin S.C.R.A.Per
 					  344575,	--Pestilent Necroray
 					  88718,	--Phosphorescent Stone Drake
 					  60021,	--Plagued Proto-Drake
@@ -1158,6 +1188,8 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  222241,	--Prestigious Midnight Courser
 					  222236,	--Prestigious Royal Courser
 					  148620,	--Prideful Gladiator's Cloud Serpent
+					  466144,	--Prized Gladiator's Fel Bat
+					  1221155,	--Prototype A.S.M.R.
 					  97493,	--Pureblood Fire Hawk
 					  280730,	--Pureheart Courser
 					  41516,	--Purple Netherwing Drake
@@ -1177,10 +1209,12 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  243025,	--Riddler's Mind-Worm
 					  400733,	--Rocket Shredder 9001
 					  414986,	--Royal Swarmer
+					  1218012,	--Ruby Butterfly
 					  424009,	--Runebound Firelord
 					  299170,	--Rustbolt Resistor
 					  63963,	--Rusted Proto-Drake
 					  101821,	--Ruthless Gladiator's Twilight Drake
+					  466026,	--Salvaged Goblin Gazillionaire's Flying Machine
 					  408654,	--Sandy Shalewing
 					  253109,	--Scintillating Mana Ray
 					  414334,	--Scourgebound Vanquisher
@@ -1192,6 +1226,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408649,	--Shadowflame Shalewing
 					  254813,	--Sharkbait
 					  359379,	--Shimmering Aurelid
+					  1217965,	--Shimmermist Free Runner
 					  332252,	--Shimmermist Runner
 					  451489,	--Siesbarg
 					  300149,	--Silent Glider
@@ -1218,11 +1253,13 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  473137,	--Soweezi's Vintage Waveshredder
 					  148392,	--Spawn of Galakras
 					  196681,	--Spirit of Eche'ro
+					  1218013,	--Spring Butterfly
 					  254811,	--Squawks
 					  308078,	--Squeakers, the Trickster
 					  432564,	--Starry Twilight Peafowl
 					  454682,	--Startouched Furline
 					  326390,	--Steamscale Incinerator
+					  466014,	--Steamwheedle Supplier
 					  442358,	--Stonevault Mechsuit
 					  147595,	--Stormcrow
 					  353859,	--Summer Wilderling
@@ -1238,9 +1275,12 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  346554,	--Tazavesh Gearglider
 					  381529,	--Telix the Stormhorn
 					  385738,	--Temperamental Skyclaw
+					  1217760,	--The Big G
 					  472752,	--The Breaker's Song
 					  261395,	--The Hivemind
+					  466016,	--The Topskimmer Special
 					  471562,	--Thrayir, Eyes of the Siren
+					  466012,	--Thunderdrum Misfire
 					  129918,	--Thundering August Cloud Serpent
 					  139442,	--Thundering Cobalt Cloud Serpent
 					  124408,	--Thundering Jade Cloud Serpent
@@ -1263,6 +1303,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  242882,	--Valarjar Stormwing
 					  351195,	--Vengeance
 					  49193,	--Vengeful Nether Drake
+					  466022,	--Venture Co-ordinator
 					  425416,	--Verdant Gladiator's Slitherdrake
 					  374048,	--Verdant Skitterfly
 					  41517,	--Veridian Netherwing Drake
@@ -1271,6 +1312,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  253106,	--Vibrant Mana Ray
 					  101282,	--Vicious Gladiator's Twilight Drake
 					  227986,	--Vindictive Gladiator's Storm Dragon
+					  466021,	--Violet Goblin Shredder
 					  41518,	--Violet Netherwing Drake
 					  132119,	--Violet Pandaren Phoenix
 					  60024,	--Violet Proto-Drake
@@ -1337,6 +1379,7 @@ ChooseMount.aquatic = {214791,	--Brinedeep Bottom-Feeder
 ChooseMount.dragonriding = {417888,		--Algarian Stormrider
 							368901,		--Cliffside Wylderdrake
 							446052,		--Delver's Dirigible
+							466133,		--Delver's Gob-Trotter
 							425338,		--Flourishing Whimsydrake
 							412088,		--Grotto Netherwing Drake
 							360954,		--Highland Drake
@@ -1367,7 +1410,8 @@ ChooseMount.raceIcons = {["Human"] = "Interface/ICONS/Ability_Mount_AlliancePVPM
 						 ["ZandalariTroll"] = "Interface/ICONS/INV_TriceratopsZandalari",
 						 ["Mechagnome"] = "Interface/ICONS/INV_MechagnomeStrider",
 						 ["Vulpera"] = "Interface/ICONS/INV_VulperaMount",
-						 ["Dracthyr"] = "Interface/ICONS/INV_KirinMount_Blue"}
+						 ["Dracthyr"] = "Interface/ICONS/INV_KirinMount_Blue",
+						 ["Earthen"] = "Interface/ICONS/INV_ProtoRamWarthen_Grey"}
 
 ChooseMount.classIcons = {["WARRIOR"] = "Interface/ICONS/INV_WarriorMount",
 						  ["PALADIN"] = "Interface/ICONS/INV_PaladinMount_Blue",
@@ -1653,6 +1697,8 @@ function ChooseMount:SelectRace(race)
 		mounts = self.vulpera
 	elseif race == "Dracthyr" then
 		mounts = self.dracthyr
+	elseif race == "EarthenDwarf" then
+		mounts = self.earthen
 	end
 	return mounts
 end
