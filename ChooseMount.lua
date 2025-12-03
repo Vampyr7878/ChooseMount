@@ -202,10 +202,12 @@ ChooseMount.dracthyr = {385131,		--Armored Vorquin Leystrider
 
 ChooseMount.earthen = {449415}	--Slatestone Ramolith
 
-ChooseMount.warrior = {229388}	--Battlelord's Bloodthirsty War Wyrm
+ChooseMount.warrior = {229388,	--Battlelord's Bloodthirsty War Wyrm
+					   1255482}	--Felscorned War Wyrm
 
 ChooseMount.paladin = {66906,	--Argent Charger
 					   66907,	--Argent Warhorse
+					   1255471,	--Felscorned Highlord's Charger
 					   231435,	--Highlord's Golden Charger
 					   231589,	--Highlord's Valorous Charger
 					   231587,	--Highlord's Vengeful Charger
@@ -215,6 +217,7 @@ ChooseMount.paladin = {66906,	--Argent Charger
 
 ChooseMount.dawnforge = {66906,		--Argent Charger
 						66907,		--Argent Warhorse
+						1255471,	--Felscorned Highlord's Charger
 						231435,		--Highlord's Golden Charger
 						231589,		--Highlord's Valorous Charger
 						231587,		--Highlord's Vengeful Charger
@@ -223,6 +226,7 @@ ChooseMount.dawnforge = {66906,		--Argent Charger
 
 ChooseMount.thalassian = {66906,	--Argent Charger
 						  66907,	--Argent Warhorse
+						  1255471,	--Felscorned Highlord's Charger
 						  231435,	--Highlord's Golden Charger
 						  231589,	--Highlord's Valorous Charger
 						  231587,	--Highlord's Vengeful Charger
@@ -232,6 +236,7 @@ ChooseMount.thalassian = {66906,	--Argent Charger
 
 ChooseMount.exarch = {66906,	--Argent Charger
 					  66907,	--Argent Warhorse
+					  1255471,	--Felscorned Highlord's Charger
 					  231435,	--Highlord's Golden Charger
 					  231589,	--Highlord's Valorous Charger
 					  231587,	--Highlord's Vengeful Charger
@@ -241,6 +246,7 @@ ChooseMount.exarch = {66906,	--Argent Charger
 
 ChooseMount.sunwalker = {66906,		--Argent Charger
 						 66907,		--Argent Warhorse
+						 1255471,	--Felscorned Highlord's Charger
 						 231435,	--Highlord's Golden Charger
 						 231589,	--Highlord's Valorous Charger
 						 231587,	--Highlord's Vengeful Charger
@@ -250,6 +256,7 @@ ChooseMount.sunwalker = {66906,		--Argent Charger
 						
 ChooseMount.lightsworn = {66906,	--Argent Charger
 						  66907,	--Argent Warhorse
+						  1255471,	--Felscorned Highlord's Charger
 						  231435,	--Highlord's Golden Charger
 						  231589,	--Highlord's Valorous Charger
 						  231587,	--Highlord's Vengeful Charger
@@ -258,6 +265,7 @@ ChooseMount.lightsworn = {66906,	--Argent Charger
 
 ChooseMount.darkforge = {66906,		--Argent Charger
 						 66907,		--Argent Warhorse
+						 1255471,	--Felscorned Highlord's Charger
 						 231435,	--Highlord's Golden Charger
 						 231589,	--Highlord's Valorous Charger
 						 231587,	--Highlord's Vengeful Charger
@@ -267,6 +275,7 @@ ChooseMount.darkforge = {66906,		--Argent Charger
 ChooseMount.prelate = {66906,	--Argent Charger
 					   66907,	--Argent Warhorse
 					   290608,	--Crusader's Direhorn
+					   1255471,	--Felscorned Highlord's Charger
 					   231435,	--Highlord's Golden Charger
 					   231589,	--Highlord's Valorous Charger
 					   231587,	--Highlord's Vengeful Charger
@@ -275,27 +284,35 @@ ChooseMount.prelate = {66906,	--Argent Charger
 ChooseMount.ordinant = {66906,	--Argent Charger
 					   66907,	--Argent Warhorse
 					   453785,	--Earthen Ordinant's Ramolith
+					   1255471,	--Felscorned Highlord's Charger
 					   231435,	--Highlord's Golden Charger
 					   231589,	--Highlord's Valorous Charger
 					   231587,	--Highlord's Vengeful Charger
 					   231588}	--Highlord's Vigilant Charger
 
-ChooseMount.hunter = {229439,	--Huntmaster's Dire Wolfhawk
+ChooseMount.hunter = {1255456,	--Felscorned Wolfhawk
+					  229439,	--Huntmaster's Dire Wolfhawk
 					  229438,	--Huntmaster's Fierce Wolfhawk
 					  229386}	--Huntmaster's Loyal Wolfhawk
 
 ChooseMount.rogue = {231524,	--Shadowblade's Baneful Omen
 					 231525,	--Shadowblade's Crimson Omen
+					 1255477,	--Shadowblade's Felscorned Omen
 					 231523,	--Shadowblade's Lethal Omen
 					 231434}	--Shadowblade's Murderous Omen
 
-ChooseMount.priest = {229377}	--High Priest's Lightsworn Seeker
+ChooseMount.priest = {1255475,	--High Priest's Felscorned Seeker
+					  229377}	--High Priest's Lightsworn Seeker
 
-ChooseMount.shaman = {231442}	--Farseer's Raging Tempest
+ChooseMount.shaman = {1255478,	--Farseer's Felscorned Tempest
+					  231442}	--Farseer's Raging Tempest
 
-ChooseMount.mage = {229376}		--Archmage's Prismatic Disc
+ChooseMount.mage = {1255463,	--Archmage's Felscorned Disc
+					229376}		--Archmage's Prismatic Disc
+								
 
 ChooseMount.warlock = {23161,	--Dreadsteed
+					   1255480,	--Felscorned Netherlord's Dreadsteed
 					   5784,	--Felsteed
 					   238454,	--Netherlord's Accursed Wrathsteed
 					   238452,	--Netherlord's Brimstone Wrathsteed
@@ -303,15 +320,18 @@ ChooseMount.warlock = {23161,	--Dreadsteed
 
 ChooseMount.druid = {189999}	--Grove Warden
 
-ChooseMount.monk = {229385}		--Ban-Lu, Grandmaster's Companion
+ChooseMount.monk = {229385,		--Ban-Lu, Grandmaster's Companion
+					1255467}	--Felscorned Grandmaster's Companion
 
 ChooseMount.deathKnight = {48778,	--Acherus Deathcharger
 						   73313,	--Crimson Deathcharger
 						   229387,	--Deathlord's Vilebrood Vanquisher
+						   1255264,	--Felscorned Vilebrood Vanquisher
 						   54726}	--Winged Steed of the Ebon Blade
 						  
 ChooseMount.demonHunter = {200175,	--Felsaber
-						   229417}	--Slayer's Felbroken Shrieker
+						   229417,	--Slayer's Felbroken Shrieker
+						   1255431}	--Slayer's Felscorned Shrieker
 
 ChooseMount.allianceGround = {259213,	--Admiralty Stallion
 							  60114,	--Armored Brown Bear
@@ -465,8 +485,10 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  253004,	--Amethyst Ruinstrider
 					  374090,	--Ancient Salamanther
 					  359276,	--Anointed Protostag
+					  1250881,	--Aquamarine Basilisk
 					  339632,	--Arboreal Gulper
 					  227956,	--Arcadian War Turtle
+					  1251265,	--Arcberry Manasaber
 					  405623,	--Armadillo Roller
 					  332466,	--Armored Bonehoof Tauralus
 					  332467,	--Armored Chosen Tauralus
@@ -482,6 +504,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  254259,	--Avenging Felcrusher
 					  127174,	--Azure Riding Crane
 					  118089,	--Azure Water Strider
+					  1264643,	--Ballistic Bronco
 					  1234859,	--Banshee's Chilling Charger
 					  1235820,	--Banshee's Sickening Charger
 					  333023,	--Battle Gargon Silessa
@@ -514,11 +537,16 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  288587,	--Blue Marsh Hopper
 					  25953,	--Blue Qiraji Battle Tank
 					  129934,	--Blue Shado-Pan Riding Tiger
+					  138640,	--Bone-White Primal Raptor
 					  332482,	--Bonecleaver's Skullboar
 					  332457,	--Bonehoof Tauralus
-					  138640,	--Bone-White Primal Raptor
+					  1251307,	--Bonesteed of Bloodshed
+					  1251311,	--Bonesteed of Oblivion
+					  1251309,	--Bonesteed of Plague
+					  1251305,	--Bonesteed of Triumph
 					  230844,	--Brawler's Burly Basilisk
 					  142641,	--Brawler's Burly Mushan Beast
+					  1264621,	--Brawlin' Bruno
 					  43899,	--Brewfest Ram
 					  213164,	--Brilliant Direbeak
 					  190690,	--Bristling Hellboar
@@ -537,6 +565,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  432610,	--Clayscale Hornstrider
 					  189364,	--Coalfist Gronnling
 					  435149,	--Cobalt Juggernaut
+					  1256677,	--Cobalt Phase-Hunter
 					  138423,	--Cobalt Primordial Direhorn
 					  39315,	--Cobalt Riding Talbuk
 					  34896,	--Cobalt War Talbuk
@@ -551,6 +580,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  344578,	--Corridor Creeper
 					  341639,	--Court Sinrunner
 					  279467,	--Craghorn Chasm-Leaper
+					  1250288,	--Cragstepper Crest-Horn
 					  465999,	--Crimson Armored Growler
 					  427435,	--Crimson Glimmerfur
 					  449269,	--Crimson Mudnose
@@ -596,11 +626,13 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  435150,	--Fel Iron Juggernaut
 					  411565,	--Felcrystal Scorpion
 					  213134,	--Felblaze Infernal
+					  1250880,	--Felslate Basilisk
 					  447957,	--Ferocious Jawcrawler
 					  36702,	--Fiery Warhorse
 					  101542,	--Flametalon of Alysrazor
 					  213349,	--Flarecore Infernal
 					  466011,	--Flarendo the Furious
+					  1250287,	--Floestrider Crest-Horn
 					  1235817,	--Forsaken's Grotesque Charger
 					  84751,	--Fossilized Raptor
 					  280729,	--Frenzied Feltalon
@@ -609,6 +641,8 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213350,	--Frostshard Infernal
 					  171851,	--Garn Nighthowl
 					  171836,	--Garn Steelmaw
+					  1251397,	--Garnet Ruinstrider
+					  1262886,	--Geargrinder Mk. 11
 					  359401,	--Genesis Crawler
 					  171635,	--Giant Coldsnout
 					  463025,	--Gigantic Grrloc
@@ -624,6 +658,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  332480,	--Gorespine
 					  171436,	--Gorestrider Gronnling
 					  122708,	--Grand Expedition Yak
+					  1234971,	--Grandiose Grrloc
 					  333021,	--Gravestone Battle Gargon
 					  171636,	--Great Greytusk
 					  259740,	--Green Marsh Hopper
@@ -643,8 +678,12 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  387231,	--Hailstorm Armoredon
 					  359229,	--Heartlight Vombata
 					  171827,	--Hellfire Infernal
+					  1250886,	--Highland Elderhorn
+					  1251680,	--Highlands Gobbler
 					  242874,	--Highmountain Elderhorn
 					  312753,	--Hopecrusher Gargon
+					  1250884,	--Illidari Blightstalker
+					  1250882,	--Illidari Dreadstalker
 					  189998,	--Illidari Felstalker
 					  359403,	--Ineffable Skitterer
 					  186305,	--Infernal Direwolf
@@ -663,15 +702,21 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  297157,	--Junkheap Drifter
 					  123182,	--Kafa Yak
 					  288505,	--Kaldorei Nightsaber
+					  1248309,	--Kalu'ak Crest-Horn
 					  457654,	--Keg Leg's Radiant Crocolisk
 					  148417,	--Kor'kron Juggernaut
 					  148396,	--Kor'kron War Wolf
 					  1244261,	--Legion Forged Elekk
+					  1250879,	--Leystone Basilisk
 					  279608,	--Lil' Donkey
 					  435133,	--Little Red Riding Goat
 					  1217341,	--Lively Darkmoon Charger
 					  374247,	--Lizi, Thunderspine Tramper
 					  171850,	--Llothien Prowler
+					  1251399,	--Longhorned Argussian Talbuk
+					  1251400,	--Longhorned Beryl Talbuk
+					  1251398,	--Longhorned Bleakhoof Talbuk
+					  1251396,	--Longhorned Sable Talbuk
 					  333027,	--Loyal Gorger
 					  373859,	--Loyal Magmammoth
 					  423891,	--Lunar Dreamstag
@@ -699,6 +744,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  374194,	--Mossy Mammoth
 					  171622,	--Mottled Meadowstomper
 					  171826,	--Mudback Riverbeast
+					  1251689,	--Murky Turkey
 					  349935,	--Noble Bruffalon
 					  349935,	--Noble Elderhorn
 					  427041,	--Ochre Dreamtalon
@@ -728,8 +774,10 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  213158,	--Predatory Bloodgazer
 					  186828,	--Primal Gladiator's Felblood Gronnling
 					  474086,	--Prismatic Snapdragon
+					  1251690,	--Prized Turkey
 					  363703,	--Prototype Leaper
 					  435153,	--Purple Shado-Pan Riding Tiger
+					  1251685,	--Quirky Turkey
 					  1226421,	--Radiant Imperial Lynx
 					  374275,	--Raging Magmammoth
 					  356501,	--Rampaging Mauler
@@ -761,6 +809,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171824,	--Sapphire Riverbeast
 					  473861,	--Savage Alabaster Battle Turtle
 					  433281,	--Savage Blue Battle Turtle
+					  1266248,	--Savage Crimson Battle Turtle
 					  367826,	--Savage Green Battle Turtle
 					  97581,	--Savage Raptor
 					  359378,	--Scarlet Helicid
@@ -774,6 +823,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  171624,	--Shadowhide Pearltusk
 					  171829,	--Shadowmane Charger
 					  449418,	--Shale Ramolith
+					  1250285,	--Sharktested Crest-Horn
 					  374155,	--Shellack
 					  259395,	--Shu-Zen, the Divine Sentinel
 					  435126,	--Silver Riding Crane
@@ -782,7 +832,9 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  332927,	--Sinfall Gargon
 					  339588,	--Sinrunner Blanchy
 					  279611,	--Skullripper
+					  1263369,	--Skypaw Glimmerfur
 					  352926,	--Skyskin Hornstrider
+					  1238729,	--Slag Basilisk
 					  138425,	--Slate Primordial Direhorn
 					  449415,	--Slatestone Ramolith
 					  346141,	--Slime Serpent
@@ -791,6 +843,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  300146,	--Snapdragon Kelpstalker
 					  213163,	--Snowfeather Hunter
 					  427043,	--Snowfluff Dreamtalon
+					  1264988,	--Snowpaw Glimmerfur Prowler
 					  1217343,	--Snowy Darkmoon Charger
 					  435131,	--Snowy Riding Goat
 					  130965,	--Son of Galleon
@@ -834,6 +887,7 @@ ChooseMount.ground = {253662,	--Acid Belcher
 					  1233542,	--The Bone Freezer
 					  1244247,	--Thunder-ridged Elekk
 					  266058,	--Tomb Stalker
+					  465235,	--Trader's Gilded Brutosaur
 					  171617,	--Trained Icehoof
 					  171623,	--Trained Meadowstomper
 					  171638,	--Trained Riverwallow
@@ -960,6 +1014,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  1245357,	--Adorned Northeron Gryphon
 					  290718,	--Aerial Unit R-21/X
 					  60025,	--Albino Drake
+					  1251283,	--Albino Mana Ray
 					  447213,	--Alunira
 					  369476,	--Amalgam of Rage
 					  96503,	--Amani Dragonhawk
@@ -977,11 +1032,13 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  451491,	--Ascendant Skyrazor
 					  353880,	--Ascendant's Aquilon
 					  342335,	--Ascended Skymane
+					  366962,	--Ash'adar, Harbinger of Dawn
 					  132117,	--Ashen Pandaren Phoenix
 					  288495,	--Ashenvale Chimaera
 					  40192,	--Ashes of Al'ar
-					  366962,	--Ash'adar, Harbinger of Dawn
+					  1229283,	--Ashplague Fel Bat
 					  466023,	--Asset Advocator
+					  1245604,	--Astral Aurochs
 					  127170,	--Astral Cloud Serpent
 					  446022,	--Astral Emperor's Serpent
 					  472157,	--Astral Gladiator's Fel Bat
@@ -1005,7 +1062,9 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  107842,	--Blazing Drake
 					  74854,	--Blazing Hippogryph
 					  72808,	--Bloodbathed Frostbrood Vanquisher
-					  288720,	--Bloodgorged Hunter
+					  288720,	--Bloodgorged Hunter,
+					  1229276,	--Bloodhunter Fel Bat
+					  1251281,	--Bloodtooth Mana Ray
 					  435145,	--Bloody Skyscreamer
 					  59568,	--Blue Drake
 					  59996,	--Blue Proto-Drake
@@ -1014,8 +1073,13 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  408653,	--Boulder Hauler
 					  1247662,	--Brewfest Barrel Bomber
 					  432562,	--Brilliant Sunburst Peafowl
+					  1253130,	--Brimstone Courser
+					  1261671,	--Bronze Aquilon
+					  1261677,	--Bronze Corpsefly
 					  59569,	--Bronze Drake
 					  473188,	--Bronze Goblin Waveshredder
+					  1261681,	--Bronze Gravewing
+					  1261668,	--Bronze Wilderling
 					  359364,	--Bronzewing Vespoid
 					  1214946,	--Broodling of Sinestra
 					  58615,	--Brutal Nether Drake
@@ -1029,10 +1093,12 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  75614,	--Celestial Steed
 					  43927,	--Cenarion War Hippogryph
 					  443660,	--Charming Courier
+					  1253129,	--Chestnut Courser
 					  312776,	--Chittering Animite
 					  1226144,	--Chrono Corsair
 					  1245359,	--Cinder-Plumed Highland Gryphon
 					  171847,	--Cindermane Charger
+					  1266579,	--Cloudborn Razorwing
 					  242881,	--Cloudwing Hippogryph
 					  312751,	--Clutch of Ha-Li
 					  139448,	--Clutch of Ji-Kun
@@ -1052,6 +1118,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  365559,	--Cosmic Gladiator's Soul Eater
 					  127156,	--Crimson Cloud Serpent
 					  377071,	--Crimson Gladiator's Drake
+					  1263387,	--Crimson Lupine
 					  129552,	--Crimson Pandaren Phoenix
 					  1217235,	--Crimson Shreddertank
 					  448186,	--Crowd Pummeler 2-30
@@ -1098,6 +1165,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  110039,	--Experiment 12-B
 					  227988,	--Fearless Gladiator's Storm Dragon
 					  435109,	--Feathered Windsurfer
+					  1251279,	--Fel-Scarred Mana Ray
 					  1226851,	--Felborn Cormaera
 					  113120,	--Feldrake
 					  97501,	--Felfire Hawk
@@ -1120,11 +1188,14 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  315132,	--Gargantuan Grrloc
 					  354360,	--Garnet Razorwing
 					  136505,	--Ghastly Charger
+					  1250482,	--Ghastly Ur'zul
 					  312772,	--Gilded Prowler
+					  1251300,	--Gloomdark Nightmare
 					  446352,	--Goblin Surfboard
 					  414324,	--Gold-Toed Albatross
 					  123993,	--Golden Cloud Serpent
 					  435044,	--Golden Discus
+					  1251297,	--Golden Sunrunner
 					  1235763,	--Grandmaster's Deep Board
 					  1235756,	--Grandmaster's Prophetic Board
 					  1235803,	--Grandmaster's Royal Board
@@ -1173,9 +1244,12 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  435147,	--Jade Pterrordax
 					  369451,	--Jade, Bright Foreseer
 					  428005,	--Jeweled Copper Scarab
+					  428062,	--Jeweled Sapphire Scarab
 					  468068,	--Junkmaestro's Magnetomech
+					  1233516,	--K'arroc Swiftwing
 					  267270,	--Kua'fon
 					  253107,	--Lambent Mana Ray
+					  1233925,	--Lana'thel's Crimson Cascade
 					  1226856,	--Lavaborn Cormaera
 					  1233518,	--Lavender K'arroc
 					  243795,	--Leaping Veinseeker
@@ -1188,6 +1262,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  347250,	--Lord of the Corpseflies
 					  472479,	--Love Witch's Sweeper
 					  247402,	--Lucid Nightmare
+					  1251284,	--Luminous Mana Ray
 					  472253,	--Lunar Launcher
 					  448188,	--Machine Defense Unit 1-11
 					  366647,	--Magenta Cloud Serpent
@@ -1304,6 +1379,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  435084,	--Sky Surfer
 					  447057,	--Smoldering Cinderbee
 					  231428,	--Smoldering Ember Wyrm
+					  1235513,	--Snowy Highmountain Eagle
 					  347251,	--Soaring Razorwing
 					  431359,	--Soaring Sky Fox
 					  191633,	--Soaring Skyterror
@@ -1317,6 +1393,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  254811,	--Squawks
 					  308078,	--Squeakers, the Trickster
 					  432564,	--Starry Twilight Peafowl
+					  1255246,	--Starspark Netherdrake
 					  454682,	--Startouched Furline
 					  326390,	--Steamscale Incinerator
 					  466014,	--Steamwheedle Supplier
@@ -1354,7 +1431,10 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  132036,	--Thundering Ruby Cloud Serpent
 					  60002,	--Time-Lost Proto-Drake
 					  471538,	--Timely Buzzbee
+					  1251255,	--Treetop Highmountain Eagle
+					  1251298,	--Turquoise Courser
 					  370770,	--Tuskarr Shoreglider
+					  1251295,	--Twilight Courser
 					  59571,	--Twilight Drake
 					  107844,	--Twilight Harbinger
 					  431360,	--Twilight Sky Prowler
@@ -1404,6 +1484,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  397406,	--Wonderous Wavewhisker
 					  290328,	--Wonderwing 2.0
 					  71810,	--Wrathful Gladiator's Frost Wyrm
+					  1229288,	--Wretched Fel Bat
 					  316343,	--Wriggling Parasite
 					  46197,	--X-51 Nether-Rocket
 					  46199,	--X-51 Nether-Rocket X-TREME
