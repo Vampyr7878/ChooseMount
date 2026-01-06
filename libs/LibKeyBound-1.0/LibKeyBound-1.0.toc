@@ -1,4 +1,4 @@
-## Interface: 70300
+## Interface: 110205,120000
 ## LoadOnDemand: 1
 ## Title: Lib: LibKeyBound-1.0
 ## Notes: An intuitive keybindings library.

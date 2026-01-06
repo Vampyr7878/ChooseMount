@@ -1,61 +1,14 @@
 ------------------------------------------------------------------------
-r114 | nevcairiel | 2018-07-05 21:05:25 +0000 (Thu, 05 Jul 2018) | 1 line
+r127 | nevcairiel | 2025-11-18 07:07:29 +0000 (Tue, 18 Nov 2025) | 1 line
 Changed paths:
-   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
-
-LibKeyBound-1.0: Fix a SetTexture call with RGB color values
-------------------------------------------------------------------------
-r113 | nevcairiel | 2018-06-29 09:10:48 +0000 (Fri, 29 Jun 2018) | 1 line
-Changed paths:
-   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
-
-LibKeyBound-1.0: Fix "No current bindings" display
-------------------------------------------------------------------------
-r112 | nevcairiel | 2018-06-29 08:58:38 +0000 (Fri, 29 Jun 2018) | 1 line
-Changed paths:
-   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
-
-LibKeyBound-1.0: Update OnKeyDown handler to be compatible with BfA, and some cleanup
-------------------------------------------------------------------------
-r111 | nevcairiel | 2018-06-29 08:44:15 +0000 (Fri, 29 Jun 2018) | 1 line
-Changed paths:
-   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
-
-LibKeyBound-1.0: Remove 'KEY_' argument from GetBindingText calls, this has been removed from the API long ago.
-------------------------------------------------------------------------
-r110 | nevcairiel | 2017-08-29 14:34:24 +0000 (Tue, 29 Aug 2017) | 1 line
-Changed paths:
-   M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
    M /trunk/LibKeyBound-1.0.toc
 
-LibKeyBound-1.0: Fix PlaySound usage for 7.3 and update TOC
+LibKeyBound-1.0: Update TOC to allow loading on 12.0
 ------------------------------------------------------------------------
-r109 | nevcairiel | 2016-09-29 11:05:24 +0000 (Thu, 29 Sep 2016) | 1 line
+r126 | Meorawr | 2024-09-12 08:56:06 +0000 (Thu, 12 Sep 2024) | 1 line
 Changed paths:
    M /trunk/LibKeyBound-1.0/LibKeyBound-1.0.lua
 
-LibKeyBound-1.0: Replace the title region with manual drag handlers, as title regions are removed in 7.1
-------------------------------------------------------------------------
-r108 | pas06 | 2016-07-21 12:42:12 +0000 (Thu, 21 Jul 2016) | 3 lines
-Changed paths:
-   M /trunk/LibKeyBound-1.0/Locale-deDE.lua
-
-LibKeyBound-1.0:
-Added missing translation of the header "BindingMode"
-
-------------------------------------------------------------------------
-r107 | pas06 | 2016-07-20 19:47:40 +0000 (Wed, 20 Jul 2016) | 2 lines
-Changed paths:
-   M /trunk/LibKeyBound-1.0/Locale-deDE.lua
-
-LibKeyBound-1.0:
-Forgot these phrase
-------------------------------------------------------------------------
-r106 | pas06 | 2016-07-20 19:37:53 +0000 (Wed, 20 Jul 2016) | 2 lines
-Changed paths:
-   M /trunk/LibKeyBound-1.0/Locale-deDE.lua
-
-LibKeyBound-1.0:
-Fix for some phrases
+LibKeyBound-1.0: Update for deprecated template removals
 ------------------------------------------------------------------------
 
