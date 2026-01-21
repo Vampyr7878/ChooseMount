@@ -1021,6 +1021,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  342666,	--Amber Ardenmoth
 					  441794,	--Amber Pterrordax
 					  424484,	--Anu'relos, Flame's Guidance
+					  1276650,	--Anu'shalla, Shadow's Guidance
 					  447185,	--Aquamarine Swarmite
 					  230987,	--Arcanist's Manasaber
 					  1226983,	--Archmage's Great Raven
@@ -1257,6 +1258,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  233364,	--Leywoven Flying Carpet
 					  359622,	--Liberated Slyvern
 					  107845,	--Life-Binder's Handmaiden
+					  1243003,	--Light-Forged Mechsuit
 					  239013,	--Lightforged Warframe
 					  215159,	--Long-Forgotten Hippogryph
 					  347250,	--Lord of the Corpseflies
@@ -1338,6 +1340,7 @@ ChooseMount.flying = {232519,	--Abyss Worm
 					  353884,	--Regal Corpsefly
 					  67336,	--Relentless Gladiator's Frost Wyrm
 					  1221132,	--Resplendent K'arroc
+					  451487,	--Retrained Skyrazor
 					  243025,	--Riddler's Mind-Worm
 					  400733,	--Rocket Shredder 9001
 					  414986,	--Royal Swarmer
