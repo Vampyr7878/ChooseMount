@@ -1931,6 +1931,8 @@ function ChooseMount:SelectRace(race)
 		mounts = self.dracthyr
 	elseif race == "EarthenDwarf" then
 		mounts = self.earthen
+	elseif race == "Harronir" then
+		mounts = self.haranir
 	end
 	return mounts
 end
