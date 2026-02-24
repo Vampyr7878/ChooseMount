@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120001
 ## Title: Choose Mount
 ## Notes: Randomize mount based on class, race and other stuff.
 ## Author: Vampyr78
